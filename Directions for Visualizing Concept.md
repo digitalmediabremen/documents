@@ -1,2 +1,2 @@
-# Directions for Visualizing Concept
+# Directions for Visualizing Concepts
 
