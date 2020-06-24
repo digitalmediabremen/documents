@@ -6,8 +6,9 @@ although this document refers to the notion of *visualizing* ( i.e regarding the
 
 - sonifications
 - written words ( including narrative and poetic forms )
-- rapid prototyping
-- …
+- (rapid) prototyping
+- (re)enactments/performances
+- ... 
 
 a *concept* in this context refers not only to concepts for works and projects but also extends to related topics such as:
 
@@ -18,6 +19,7 @@ a *concept* in this context refers not only to concepts for works and projects b
 - theories
 - suspicions
 - models 
+- actions
 - …
 
 ### Why Visualize Concepts and Why it Matters?
@@ -34,16 +36,22 @@ a random but nice example is the double pendulum. described in words "a double p
 
 ### A few Words on Visualizaton Style
 
+visualization styles can be very neutral, conforming to industry or other standards (e.g. engineering blueprints or plain renderings), or highly expressive and individualised. many develop their own visualization style that becomes part of their "brand" or identity (this is often the case in achitecture or fashion, where projects might not go past the concept stage into production). others develop new visualization styles for every project, fitting with the discussed themes and carrying the specific *vibe* of the work.  
+
 - neutral vs eccentric	 / exalted
 - some develop their own visualizaton style
 - or develop a new visualisation style suitable for the concept
 
 ### @maybe(look at architecture and fashion)
 
-## Projects that are *only* Concept
+## Projects that are *only* Concept Visualizations
 
 - [Étienne-Louis Boullée](https://en.wikipedia.org/wiki/%C3%89tienne-Louis_Boull%C3%A9e) -- visionary French neoclassical architect
-- [Archigram](https://en.wikipedia.org/wiki/Archigram) - british avant garde architecture group 
+- [Archigram](https://en.wikipedia.org/wiki/Archigram) - British avant garde architecture group 
+
+## Projects where Visualizations are part of the Work
+
+- Matthew Barney: [River of Fundament] -- extensive art project including 2D works, sculptures and a feature film. As part of the production process he created drawings that served as storyboards for the film and were later exhibited artworks. 
 
 ## Methods + Strategies for Visualizing Concepts
 
@@ -64,8 +72,10 @@ a random but nice example is the double pendulum. described in words "a double p
 - software sketches
 - miniatures and models
 - diagrams
+- blueprints
 - proof-of-concepts (?)
 - physical and mechanical prototypes
     - lego
     - paper
 - material tests
+- storyboards
