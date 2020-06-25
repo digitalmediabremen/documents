@@ -45,7 +45,7 @@ Some projects are *only* visualizations. This is often the case when the scope o
 Examples:
 
 - [Étienne-Louis Boullée](https://en.wikipedia.org/wiki/%C3%89tienne-Louis_Boull%C3%A9e) -- visionary French neoclassical architect
-- [Archigram](https://en.wikipedia.org/wiki/Archigram) - British avant garde architecture group 
+- [Archigram](https://en.wikipedia.org/wiki/Archigram) -- British avantgarde architecture group 
 
 ## Projects where Visualizations are part of the Work
 
@@ -53,7 +53,7 @@ In other projects, visualizations become an important part of the final work. Th
 
 Examples:
 
-- Matthew Barney: River of Fundament - [Drawings](https://www.gladstonegallery.com/artist/matthew-barney/work-detail/868/em-river-of-fundament-leaves-of-grass-em), [Movie](https://www.youtube.com/watch?v=quyiQXG7GlY)-- extensive art project including 2D works, sculptures and a feature film. As part of the production process, Barney created drawings that served as storyboards for the film and were later exhibited as artworks. 
+- Matthew Barney: River of Fundament - [Drawings](https://www.gladstonegallery.com/artist/matthew-barney/work-detail/868/em-river-of-fundament-leaves-of-grass-em), [Movie](https://www.youtube.com/watch?v=quyiQXG7GlY) -- extensive art project including 2D works, sculptures and a feature film. As part of the production process, Barney created drawings that served as storyboards for the film and were later exhibited as artworks. 
 
 ## Methods + Strategies for Visualizing Concepts
 
@@ -77,7 +77,7 @@ Here are some:
 - miniatures and models
 - diagrams
 - blueprints
-- proof-of-concepts (?)
+- proof-of-concepts
 - physical and mechanical prototypes
     - lego
     - paper
