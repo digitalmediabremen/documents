@@ -53,7 +53,7 @@ In other projects, visualizations become an important part of the final work. Th
 
 Examples:
 
-- Matthew Barney: River of Fundament [Drawings](https://www.gladstonegallery.com/artist/matthew-barney/work-detail/868/em-river-of-fundament-leaves-of-grass-em) [Movie](https://www.youtube.com/watch?v=quyiQXG7GlY)-- extensive art project including 2D works, sculptures and a feature film. As part of the production process, Barney created drawings that served as storyboards for the film and were later exhibited as artworks. 
+- Matthew Barney: River of Fundament - [Drawings](https://www.gladstonegallery.com/artist/matthew-barney/work-detail/868/em-river-of-fundament-leaves-of-grass-em), [Movie](https://www.youtube.com/watch?v=quyiQXG7GlY)-- extensive art project including 2D works, sculptures and a feature film. As part of the production process, Barney created drawings that served as storyboards for the film and were later exhibited as artworks. 
 
 ## Methods + Strategies for Visualizing Concepts
 
