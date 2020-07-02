@@ -33,6 +33,7 @@ and lastly a *process documentation* can become the work itself. whether planned
 - **book / zine** :: make a publication about your project, while you’re making it. you can edit, reiterate and reflect during and after the project
 - ***zettelkasten*** :: a box of notes on paper, not sorted, categories and interconnections will emerge [Einblicke in das System der Zettel - Geheimnis um Niklas Luhmanns Zettelkasten](https://www.youtube.com/watch?v=4veq2i3teVk) + [Niklas_Luhmann @ Wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann)
 - **sketchbook** :: either a traditional paper-based sketchbook or a digital verison of it ( e.g growing slide-show presentation document )
+- **abstract** :: write a brief abstract about your work from very early on, and update it continously
 
 obviously, the methods above are just an incomplete collection. each method can and should be adapted, modified or improved according to one’s liking or requirement. the collection is merely meant to serve as a source of inspiration and a starting point. this document aims to inspire and contemplate the role and use of *process documentations*.
 
