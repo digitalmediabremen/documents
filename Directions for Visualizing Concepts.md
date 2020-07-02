@@ -83,3 +83,9 @@ Here are some:
     - paper
 - material tests
 - storyboards
+
+---
+
+This document is available as a public document at [Directions for Visualizing Concepts](http://dm-hb.de/dmdfvc).
+
+
