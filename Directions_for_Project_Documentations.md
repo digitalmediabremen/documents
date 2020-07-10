@@ -18,7 +18,7 @@ The latter is supposed to be short and should somewhat fit with the style of pro
 
    http://digitalmedia-bremen.de/de/projekte
 
-We have compiled the document [Directions for Preparing Material to Document Projects on Our Website](http://dm-hb.de/dfpmtdpoow) outlining guidelines for the *website version*. Please read it carefully in addition to this document.
+We have compiled the document [Directions for Preparing Material to Document Projects on Our Website](http://dm-hb.de/dmdfpmtdpoow) outlining guidelines for the *website version*. Please read it carefully in addition to this document.
 
 The former is longer and more thorough. All media ( photos, renderings, videos ) should be of high resolution. This version can also contain additional content like source code, sketches, etcetera; as well as longer texts.
 
