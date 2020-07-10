@@ -52,7 +52,6 @@ This document is available as a public document at [Documenting Process](http://
 list of works where the *process* plays a notable role
 
 - [Sammy Jobbins Wells: skin](http://digitalmedia-bremen.de/project/skin/)
-- [Thomas Thwaites: The Toaster Project] (https://www.thomasthwaites.com/the-toaster-project/)
-- [Henrik Nieratschker: Subräume] (http://digitalmedia-bremen.de/project/subraume/)
+- [Thomas Thwaites: The Toaster Project](https://www.thomasthwaites.com/the-toaster-project/)
+- [Henrik Nieratschker: Subräume](http://digitalmedia-bremen.de/project/subraume/)
 - @maybe tape sculptures by [Numen / For use](http://numen.eu/installations/tape/des-moines/)
-
