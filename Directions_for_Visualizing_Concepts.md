@@ -8,7 +8,7 @@ although this document refers to the notion of *visualizing* ( i.e regarding the
 - written words ( including narrative and poetic forms )
 - (rapid) prototyping
 - (re)enactments/performances
-- ... 
+- …
 
 a *concept* in this context refers not only to concepts for works and projects but also extends to related topics such as:
 
@@ -17,7 +17,7 @@ a *concept* in this context refers not only to concepts for works and projects b
 - notions
 - thoughts
 - theories
-- suspicions
+- suspicions ( @REF [Mark Lombardi](https://en.wikipedia.org/wiki/Mark_Lombardi) )
 - models 
 - actions
 - …
@@ -36,6 +36,8 @@ a random but nice example is the double pendulum. described in words "a double p
 
 ### A few Words on Visualizaton Style
 
+> "another one for instagram", Henrik Nieratschker
+
 visualization styles can be very neutral, conforming to industry or other standards (e.g. engineering blueprints or plain renderings), or highly expressive and individualised. many develop their own visualization style that becomes part of their "brand" or identity (this is often the case in achitecture or fashion, where projects might not go past the concept stage into production). others develop new visualization styles for every project, fitting with the discussed themes and carrying the specific *vibe* of the work.  
 
 ## Projects that are *only* Concept Visualizations
@@ -47,13 +49,18 @@ Examples:
 - [Étienne-Louis Boullée](https://en.wikipedia.org/wiki/%C3%89tienne-Louis_Boull%C3%A9e) -- visionary French neoclassical architect
 - [Archigram](https://en.wikipedia.org/wiki/Archigram) -- British avantgarde architecture group 
 
-## Projects where Visualizations are part of the Work
+## Projects Where Visualizations are Part of the Work
 
 In other projects, visualizations become an important part of the final work. This can either happen during the process, by accident, or as a specific strategy.  
 
 Examples:
 
 - Matthew Barney: River of Fundament - [Drawings](https://www.gladstonegallery.com/artist/matthew-barney/work-detail/868/em-river-of-fundament-leaves-of-grass-em), [Movie](https://www.youtube.com/watch?v=quyiQXG7GlY) -- extensive art project including 2D works, sculptures and a feature film. As part of the production process, Barney created drawings that served as storyboards for the film and were later exhibited as artworks. 
+
+## Words on *Resolution of a Visualization*
+
+- time
+- strategically ( how much space do you leave for the recipient? )
 
 ## Methods + Strategies for Visualizing Concepts
 
