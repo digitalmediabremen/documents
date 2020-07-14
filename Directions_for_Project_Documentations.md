@@ -43,7 +43,3 @@ Please also consult the document [Directions for Developing a Design/Artistic Pr
 ---
 
 This document is available as a public document at [Directions for Project Documentations](http://dm-hb.de/dmdfpd).
-
-===
-
-@todo( add a few notes on how to describe works in text ( e.g material, technical details, exhibition and awards ) )
