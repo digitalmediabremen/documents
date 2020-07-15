@@ -55,3 +55,4 @@ list of works where the *process* plays a notable role
 - [Thomas Thwaites: The Toaster Project](https://www.thomasthwaites.com/the-toaster-project/)
 - [Henrik Nieratschker: Subräume](http://digitalmedia-bremen.de/project/subraume/)
 - @maybe tape sculptures by [Numen / For use](http://numen.eu/installations/tape/des-moines/)
+- Rafael Lozano-Hemmer has put together an article which might serve as an inspiration [Best practices for conservation of media art from an artist’s perspective](http://dm-hb.de/8o)
