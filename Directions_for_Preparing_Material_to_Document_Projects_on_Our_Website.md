@@ -2,7 +2,7 @@
 
 the following points should be understood as general directions and rules of thumb. if there is a good reason to ignore, override, or even disobey the rules … go ahead. this paper does not include hints on *how to* properly document projects.
 
-also find inspiration by looking at the documentation already published on the [Digital Media website](http://digitalemedien-bremen.de/de/projekte).
+also find inspiration by looking at the documentation already published on the [Digital Media website](https://digitalemedien-bremen.de/de/projekte).
 
 ## General
 
