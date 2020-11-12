@@ -1,8 +1,10 @@
 # Directions for Developing Ideas for a Design/Art Project
 
-## Methods for Finding Ideas
+## Methods, Techniques or Tricks for Finding Ideas
 
-generating good ideas is the howly grail in art + design. many myths are shrouding the process of how people come to have good ideas ( see e.g the concept/myth of the *genius* ). there are millions of methods, books, seminars, and writings about the topic. still there is no unifed truth regarding the applicability and quality of methods; some methods are better than others and some methods work for some people better than others for other people. while there is a significant amount of people arguing that the whole idea of applying methods to the finding of ideas is flawed. thus it is of grave importance that one experiments with and identifies the methods that work best for oneself. experimenting with such methods and reflecting their effect on oneself is first and foremost a way of understand oneself better ( similar to reading a horoscope which is also much more about understanding oneself than predicting the future ).
+generating good ideas is the howly grail in art + design. many myths are shrouding the process of how people come to have good ideas ( see e.g the concept/myth of the *genius* ). there are millions of methods, books, seminars, and writings on the topic. still there is no unifed truth regarding the applicability and quality of such methods; some are better than others while some just work for some people better than for others.
+
+while there is a significant amount of people arguing that the whole idea of applying methods to finding ideas is flawed or even dangerous ( especially for artists and designers ). thus it is of grave importance that one experiments with and identifies the methods that work best for oneself. experimenting with such methods and reflecting their effect on oneself is first and foremost a way of understand oneself better ( similar to reading a horoscope which is also much more about understanding oneself than predicting the future ).
 
 from my own experience i can say that there is no single method which i found superior. still i cultivated an interest in hearing, learning and subjectively evaluating such methods; but always with a critical mindset, a great deal of suspicion and most importantly always on my *own terms*.
 
@@ -28,13 +30,12 @@ from my own experience i can say that there is no single method which i found su
 - matrix
 - variations
 
-@todo( add examples to explanations )
-@todo( translate german texts )
+@todo( add more examples to explanations )
 
 ### problem solving
 
-- the mother of all idea finding methods
-- often overly stretchted ( when everything is considered a problem or when situations are labeled problems that a really not `#firstworldproblems` )
+- the mother of all idea finding methods ( at least in a design context )
+- often overly stretched ( when everything is considered a problem ( e.g designing a happy birthday card is really not a problem ) or when situations are inflated to be problems that a really not ( e.g `#firstworldproblems` ) )
 - *identify a problem and solve it*
 - almost any everyday situation or interaction can serve as a *problem* ( e.g "putting on socks in the morning" produces a *strumpfanziehhilfe* )
 
@@ -42,9 +43,9 @@ from my own experience i can say that there is no single method which i found su
 
 look at everyday situations. important and insignificant. small and big. describe and analyze such situations. see what *you* would want to change about these situations but also contemplate what others might want, need, or desire.
 
-similarly shift the focus away from situation and assume a *human-centered* perspective by observing people. how do they do things? what do they care about? become acquainted with your *audience* ( recipient, customer, client, user, … ). it might be worth considering to invest some extra effort, planning, and preparing to be able to better observe people. interviews in all shapes and forms are traditionally a powerful tool to learn and understand. however being a design it is also worth considering to deliberately design for this endeavor. find or design other or new ways to learn about people ( see e.g *cultural probes* ).
+similarly shift the focus away from situation and assume a *human-centered* perspective by observing people. how do they do things? what do they care about? become acquainted with your *audience* ( recipient, customer, client, user, … ). it might be worth considering to invest some extra effort, planning, and preparing to be able to better observe people. interviews in all shapes and forms are traditionally a powerful tool to learn and understand. however being a designer it is also worth considering to deliberately design for this endeavor. find or design other or new ways to learn about people ( see e.g *cultural probes* ).
 
-by the way, the ability to project oneself into the mind of another person is an important skill when observing people and situations. this ability is often refered to as empathy. empathy is a central ability for designers; not only when finding ideas. to be able to empathize with the people one is designing for allows for a permanent evaluation of the design and the design process.
+by the way, the ability to project oneself into the mind of another person is an important skill when observing people and situations. this ability is often refered to as *empathy*. empathy is a central ability for designers; not only when finding ideas. to be able to empathize with the people one is designing for allows for a permanent evaluation feedback cycle of the design and the design process.
 
 ### by reference / derivative idea
 
@@ -148,6 +149,15 @@ it is also of grave importance to choose and develop strategies to transport ide
 - video prototypes
 - software sketches
 
+see also [Directions for Visualizing Concepts](http://dm-hb.de/dmdfvc) for a more indepth discussion of the topic.
+
+## Atmosphere
+
+despite all the above methods, techniques or tricks probably the most important aspect of *finding ideas* ( or *being creative* for that matter ) is the context, atmosphere, mood or state one is in. it is crucial to find the most productive mode for oneself. while some like to be alone other need to talk to people to be creative. some need to be playful while others need the stress of an impending deadline. as mentioned in the beginning the only real piece of advice here is to explore, experiment and critically reflect one’s own idea finding process.
+
+[John Cleese](https://en.wikipedia.org/wiki/John_Cleese) shares some thoughts on the topic at [John Cleese Keynote Speech at Creative Arts Design School](https://vimeo.com/209489484) where he talks about creativity and how it is affected ( or limited ) by the way we think we *should* work.
+
 ---
 
 This document is available as a public document at [Directions for Developing Ideas for a Design/Art Project](http://dm-hb.de/dfdifadap).
+
