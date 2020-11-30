@@ -129,7 +129,11 @@ ideenfindung in dem kreuzen von eigenschaften. bsp aus dem vortrag ›graham har
 
 ### variations
 
-take an exisiting idea, identify a *parameter*, and deliberately create variations of it. then discard the variations that are not *interesting*.
+take an exisiting idea, identify a *parameter*, and deliberately create variations of it. then discard the variations that are not *interesting*. 
+
+the *parameters* can be of very different quality. consider for example the design of a chair: an inital idea can deliberatly tested against a parameter like *color*. a variation on that parameter might yield a series of variations, however it is most likely that this parameter does not generate a large *delta* in the *interestingness* of the resulting variations of the initial idea ( except for those cases where the color is for example a thermochromic color that reacts to body temperature ;) ). if you however take a paramter like *scale* ( especially non-uniform scaling ) the resulting variations can become very weird and extreme, ranging from miniatur dollhouse chairs to chair-shaped installations in public spaces.
+
+appart from parameters *physically* connected to the artifact, more conceptual or meta paramters can also be varied. in the chair example a parameter of this quality could be the assumed *user* of the chair. it can create interesting variations to assume the *user* being small or tall, young or old, human or animal.
 
 ## Strategies for Presenting + Visualizing Ideas
 
