@@ -34,6 +34,13 @@ also find inspiration by looking at the documentation already published on the [
 - if you have preferences regarding the positon of the images in relation to the text, please use the markdown to position the images in the text or use comments.
 - links to other websites are welcome ( e.g extensive project descriptions, appearences on blogs, or award website )
 
+## Social Media
+
+- There are *Digital Media Bremen* accounts on [Twitter](https://twitter.com/DM_BREMEN) and on [Instagram](https://www.instagram.com/digitalmediabremen). Via both channels new projects on the website get announced.
+- In case you have an Instagram account you can let us know about the name / handle of your account. Then you can get tagged when your project is announced.
+- If a video is part of your project documentation you can send a link to a downloadable short version <60sec of your video along with your documentation files. Otherwise your key visual will get posted as the announcement of your project.
+- All projects are posted announced using a similar scheme: `'The Transcriptions of Space' a project by Artem Stepanchuk is now featured on our website`
+
 ## Exemplary Project Description ( in markdown )
 
 in this exemplary description a series of images in a folder called `website` are referenced and placed in the text flow. the description also references a vimeo video.
