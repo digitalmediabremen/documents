@@ -21,3 +21,7 @@ excerpt from `STUKO DM / 081 / Protokoll (2021-02-03)`:
 > die lehrenden schicken eine liste an campus office mit teilnehmer_innen
 > 
 > darüber hinaus regt AS an ein regelmässiges treffen mit den lehrenden DM ( zB monatlich ) einzuberufen.
+
+## resources and links
+
+- [Leitfaden fuer Lehrbeauftragte.pdf](http://dm-hb.de/lf)
