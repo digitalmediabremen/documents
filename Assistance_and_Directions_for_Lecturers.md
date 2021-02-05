@@ -1,4 +1,4 @@
-# Directions for Lecturers
+# Assistance and Directions for Lecturers
 
 ## vorgehen bei überbuchung von lehrveranstaltungen
 
