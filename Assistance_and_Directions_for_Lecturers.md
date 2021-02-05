@@ -24,4 +24,4 @@ excerpt from `STUKO DM / 081 / Protokoll (2021-02-03)`:
 
 ## resources and links
 
-- [Leitfaden fuer Lehrbeauftragte.pdf](http://dm-hb.de/lf)
+- [Leitfaden fuer Lehrbeauftragte](http://dm-hb.de/lf)
