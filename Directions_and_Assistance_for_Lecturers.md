@@ -18,7 +18,7 @@ die STUKO DM beschliesst einstimmig das folgende:
 - lehrende werden angehalten die auswahl in einem vorher abgestimmten zeitraum vorzunehmen ( normalerweise nach oder während der zweiten sitzung der LV ) 
 - die lehrenden werden angehalten studierenden die in der vergangheit nicht an einer LV teilnehmen konnten zu bevorzugen
 - in begründeten ausnahmefällen können lehrende auch ausnahmen der regeln machen 
-- die lehrenden schicken eine liste an campus office mit teilnehmer_innen
+- die lehrenden schicken eine liste an campus office mit teilnehmer_innen. campus-office passt die teilnahmeliste an ( inkl MS Teams ) und schließt die anmeldung für die LV. nachmeldungen können durch die lehrenden jederzeit an campus-office geschickt werden.
 
 darüber hinaus regt AS an ein regelmässiges treffen mit den lehrenden DM ( zB monatlich ) einzuberufen.
 
