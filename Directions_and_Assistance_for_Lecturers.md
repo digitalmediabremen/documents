@@ -1,5 +1,29 @@
 # Directions and Assistance for Lecturers
 
+## lehrveranstaltungen auf artist veröffentlichen
+
+# Veranstaltungsname
+
+Lehrenden können im Feld Veranstaltungsname etwas eingeben. Dieser eigene Titel taucht in den Artist-Listen dann an zweiter Stelle, direkt hinter dem Modulkürzel auf. Der Modulname (zB Spezielle Gebiete, oder Individualprojekt) folgt dann als drittes in Klammern, so also:
+
+    Individualprojekt "DIGIHUB Industry: Einen neuen Ort für die Zukunft mitgestalten" (DM.B-MG-3)
+
+Wenn Lehrende keinen eigenen Titel eingeben, das Eingabefeld Veranstaltungsname also einfach freilassen, dann so:
+
+    Individualprojekt (DM.B-MG-3)
+
+# Veranstaltungsbeschreibung
+
+    Individualprojekt "DIGIHUB Industry: Einen neuen Ort für die Zukunft mitgestalten" (DM.B-MG-3)
+
+    Individuelle Projektentwicklung, die sich thematisch mit der Synthese aus Theorie, Technologie und Gestaltung auseinandersetzt. Entwicklung, Konzeption und Gestaltung des Vorhabens.
+
+    <!-- externer editierbarer ort -->
+
+    Im Technologiepark am Campus der Uni Bremen entsteht derzeit ein in Kooperation der encoway GmbH, der Bremer Senatorin für Wirtschaft, Arbeit und Europa, der WFB Wirtschaftsförderung Bremen und der Universität Bremen ein neues Gebäude, das DIGIHUB Indust…
+
+der *externe[r] editierbarer ort* kann zB ein blog, eine eigene website oder ein bereich auf einem HfK server <!--@todo(was gibt es hier für möglichkeiten?)--> sein.
+
 ## vorgehen bei überbuchung von lehrveranstaltungen
 
 @todo(translate into english and *generalize*)
