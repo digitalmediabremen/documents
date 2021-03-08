@@ -2,7 +2,7 @@
 
 ## lehrveranstaltungen auf artist veröffentlichen
 
-# Veranstaltungsname
+### Veranstaltungsname
 
 Lehrenden können im Feld Veranstaltungsname etwas eingeben. Dieser eigene Titel taucht in den Artist-Listen dann an zweiter Stelle, direkt hinter dem Modulkürzel auf. Der Modulname (zB Spezielle Gebiete, oder Individualprojekt) folgt dann als drittes in Klammern, so also:
 
@@ -12,7 +12,7 @@ Wenn Lehrende keinen eigenen Titel eingeben, das Eingabefeld Veranstaltungsname 
 
     Individualprojekt (DM.B-MG-3)
 
-# Veranstaltungsbeschreibung
+### Veranstaltungsbeschreibung
 
     Individualprojekt "DIGIHUB Industry: Einen neuen Ort für die Zukunft mitgestalten" (DM.B-MG-3)
 
