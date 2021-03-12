@@ -48,4 +48,4 @@ darüber hinaus regt AS an ein regelmässiges treffen mit den lehrenden DM ( zB 
 
 ## resources and links
 
-- [Leitfaden fuer Lehrbeauftragte](http://dm-hb.de/lf)
+- [Leitfaden fuer Lehrbeauftragte](http://dm-hb.de/lfl)
