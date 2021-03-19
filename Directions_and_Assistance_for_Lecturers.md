@@ -2,7 +2,7 @@
 
 ## Organisation der Teilnehmenden der Lehrveranstaltungen
 
-( from `STUKO DM / 081 / Protokoll (2021-02-03)` )
+( auszug `STUKO DM / 081 / Protokoll (2021-02-03)` )
 
 - die teilnehmendenzahlen durch das artist-system nicht beschränkt werden sollen
 - lehrende geben die teilnehmendenzahlen in der beschreibung der LVs an. der default sind die im akkreditierungsantrag veranschlagten zahlen.
