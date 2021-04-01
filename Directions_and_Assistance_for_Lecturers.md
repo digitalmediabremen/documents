@@ -4,17 +4,17 @@
 
 ( auszug `STUKO DM / 081 / Protokoll (2021-02-03)` )
 
-- die teilnehmendenzahlen durch das artist-system nicht beschränkt werden sollen
-- lehrende geben die teilnehmendenzahlen in der beschreibung der LVs an. der default sind die im akkreditierungsantrag veranschlagten zahlen.
+- die teilnehmendenzahlen werden durch das artist-system nicht beschränkt
+- die standard teilnehmendenzahlen sind im akkreditierungsantrag veranschlagt. lehrende können aber auch abweichende teilnehmendenzahlen festlegen und diese dann in der beschreibung der LVs angeben.
 - lehrende wählen die teilnehmenden nach einem der verfahren unten aus ( priorisiert ):
     1. anspruch durch studienverlauf
     2. verhältnis studienrichtung/studiengang
     3. motivationsschreiben
     4. zufall
-- lehrende werden angehalten die auswahl in einem vorher abgestimmten zeitraum vorzunehmen ( normalerweise nach oder während der zweiten sitzung der LV ) 
-- die lehrenden werden angehalten studierenden die in der vergangheit nicht an einer LV teilnehmen konnten zu bevorzugen
-- in begründeten ausnahmefällen können lehrende auch ausnahmen der regeln machen 
-- die lehrenden schicken eine liste an campus office mit teilnehmer_innen. campus-office passt die teilnahmeliste an ( inkl MS Teams ) und schließt die anmeldung für die LV. nachmeldungen können durch die lehrenden jederzeit an campus-office geschickt werden.
+- lehrende werden angehalten die auswahl in einem vorher abgestimmten zeitraum vorzunehmen ( normalerweise nach oder während der zweiten sitzung der LV ).
+- die lehrenden werden angehalten studierenden die in der vergangheit nicht an einer LV teilnehmen konnten zu bevorzugen.
+- in begründeten ausnahmefällen können lehrende auch ausnahmen von den regeln machen.
+- die lehrenden schicken eine liste an  Campus-Office KuD <campus-office-kud@hfk-bremen.de> mit teilnehmer_innen. Campus-Office KuD passt die teilnahmeliste an ( inkl MS Teams ) und schließt die anmeldung für die LV. nachmeldungen können durch die lehrenden jederzeit an campus-office geschickt werden.
 
 darüber hinaus sollte ein regelmässiges treffen mit den lehrenden DM ( zB monatlich ) stattfinden.
 
