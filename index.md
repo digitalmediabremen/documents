@@ -1,3 +1,9 @@
+# Digital Media Documents
+
+this is a collection of documents on topics related to the [Digital Media Program](https://digitalmedia-bremen.de).
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/digitalmediabremen/documents/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
