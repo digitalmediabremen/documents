@@ -1,6 +1,6 @@
 # Directions and Assistance for Lecturers
 
-- alle technisch-administrativen fragen und probleme mit dem *Artist System* kann man gut mit dem [Campus Office](campus-office-kud@hfk-bremen.de) klären.
+- alle technisch-administrativen fragen und probleme mit dem *Artist System* kann man gut mit dem [Campus-Office KuD](campus-office-kud@hfk-bremen.de) klären.
 
 ## Sprache in Lehrveranstaltungen
 
@@ -20,7 +20,7 @@ grundsätzlich sind lehrveranstaltungen (LV) im bachelor auf deutsch und im mast
 - lehrende werden angehalten die auswahl in einem vorher abgestimmten zeitraum vorzunehmen ( normalerweise nach oder während der zweiten sitzung der LV ).
 - die lehrenden werden angehalten studierenden die in der vergangheit nicht an einer LV teilnehmen konnten zu bevorzugen.
 - in begründeten ausnahmefällen können lehrende auch ausnahmen von den regeln machen.
-- die lehrenden schicken eine liste an  Campus-Office KuD <campus-office-kud@hfk-bremen.de> mit teilnehmer_innen. Campus-Office KuD passt die teilnahmeliste an ( inkl MS Teams ) und schließt die anmeldung für die LV. nachmeldungen können durch die lehrenden jederzeit an campus-office geschickt werden.
+- die lehrenden schicken eine liste an [Campus-Office KuD](campus-office-kud@hfk-bremen.de) mit teilnehmer_innen. Campus-Office KuD passt die teilnahmeliste an ( inkl MS Teams ) und schließt die anmeldung für die LV. nachmeldungen können durch die lehrenden jederzeit an campus-office geschickt werden.
 
 darüber hinaus sollte ein regelmässiges treffen mit den lehrenden DM ( zB monatlich ) stattfinden.
 
