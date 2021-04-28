@@ -1,5 +1,11 @@
 # Directions and Assistance for Lecturers
 
+- alle technisch-administrativen fragen und probleme mit dem *Artist System* kann man gut mit dem [Campus Office](campus-office-kud@hfk-bremen.de) klären.
+
+## Sprache in Lehrveranstaltungen
+
+grundsätzlich sind lehrveranstaltungen (LV) im bachelor auf deutsch und im master auf englisch. allerdings können lehrende sich entscheiden LVs im bachelor in englisch anzubieten. dies kann dann auch in artist vermerkt werden, so dass studierende dies schon vor beginn der LVs wissen.
+
 ## Organisation der Teilnehmenden der Lehrveranstaltungen
 
 ( auszug `STUKO DM / 081 / Protokoll (2021-02-03)` )
