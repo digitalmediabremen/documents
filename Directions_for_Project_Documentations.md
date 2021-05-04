@@ -22,7 +22,7 @@ We have compiled the document [Directions for Preparing Material to Document Pro
 
 The former is longer and more thorough. All media ( photos, renderings, videos ) should be of high resolution. This version can also contain additional content like source code, sketches, etcetera; as well as longer texts.
 
-Please always send us the individual raw media files ( for example images as jpegs||pngs||tiff + videos as mp4||mov||avi + texts as txt||markdown||word + etcetera ). Please DO NOT send us exclusively PDFs or other encapsulated, uneditable formats.
+Please always send us the individual raw media files ( for example images as jpeg || png || tiff + videos as mp4 || mov || avi + texts as txt || markdown || word + etcetera ). Please DO NOT send us exclusively PDFs or other encapsulated, uneditable formats.
 
 ## Dissemination
 
