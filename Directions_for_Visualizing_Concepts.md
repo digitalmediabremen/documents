@@ -63,7 +63,8 @@ In other works, visualizations become an important *part* of the actual, final w
 
 @todo(this needs to be elaborated)
 
-- time
+- from hand sketch ( lo-res, lo-fi ) to 3D rendering ( hi-end, hi-fi )
+- time + energy expended ( how much resources go into the visualization )
 - strategically ( how much space do you leave for the recipient? )
 
 ## Methods + Strategies for Visualizing Concepts
