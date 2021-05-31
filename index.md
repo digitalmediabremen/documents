@@ -2,42 +2,12 @@
 
 this is a collection of documents on topics related to the [Digital Media Program](https://digitalmedia-bremen.de).
 
----
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/digitalmediabremen/documents/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digitalmediabremen/documents/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [How_to_Conduct_a_Recherche](How_to_Conduct_a_Recherche.md)
+- [Directions_and_Assistance_for_Lecturers](Directions_and_Assistance_for_Lecturers.md)
+- [Directions_for_Developing_a_Design--Artistic_Project](Directions_for_Developing_a_Design--Artistic_Project.md)
+- [Directions_for_Developing_Ideas_for_a_Design--Art_Project](Directions_for_Developing_Ideas_for_a_Design--Art_Project.md)
+- [Directions_for_Preparing_Material_to_Document_Projects_on_Our_Website](Directions_for_Preparing_Material_to_Document_Projects_on_Our_Website.md)
+- [Directions_for_Process_Documentations](Directions_for_Process_Documentations.md)
+- [Directions_for_Project_Documentations](Directions_for_Project_Documentations.md)
+- [Directions_for_Project_Sketches](Directions_for_Project_Sketches.md)
+- [Directions_for_Visualizing_Concepts](Directions_for_Visualizing_Concepts.md)
