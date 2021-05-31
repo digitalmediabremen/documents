@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+@import url(https://fonts.googleapis.com/css?family=Roboto%20Mono);
+
+$base-font-family: 'Roboto Mono', 'Courier New', monospace !default;
+$base-font-size:   12px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 1.0 !default;
+$base-line-height: 1.75 !default;
+
+$spacing-unit:     25px !default;
+
+$text-color:       #111 !default;
+$background-color: #f8f8f8 !default;
+$brand-color:      #000 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;
