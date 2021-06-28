@@ -23,7 +23,7 @@ This documents compiles a list of questions that guies you through the process o
 ### Dimensions
 - dimensions of the work
 - L x B x H cm
-- dimesions of of transport crates
+- (dimesions of the transport crates)
 
 ### Spatial Requirements
 - how much floor/wall space is needed? (m²)
