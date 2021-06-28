@@ -50,10 +50,16 @@ Tech riders have their origin in theater, dance, and live music events. They are
 - does it need a projector (what resolution/lumen etc.)?
 - best is to name the exact model. Looks professional, but in most cases, you get something else ;(
 
+### consumables
+- do you need consumables for the installation?
+- things that can't be shipped because they are marked as dangerous? e.g chemicals, gasses etc
+- e.g. cable ties?
+
+### componets (technological and others) to be provided by the artist
+- make a list of components (eventually document every single part/element photographically)
 
 ### lighting
-- what kind of light is required for optimal presentation. Spot, wall washer, profiles?
-
+- what kind of light setting is required for optimal presentation. spots, wall washer, profiles?
 
 ### sound
 - is it a loud piece?
