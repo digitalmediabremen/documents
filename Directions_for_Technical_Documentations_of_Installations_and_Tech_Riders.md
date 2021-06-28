@@ -20,12 +20,12 @@ Tech riders have their origin in theater, dance, and live music events. They are
 This documents compiles a list of questions that guies you through the process of writing a propper tech rider.
 
 
-### dimensions
+### Dimensions
 - dimensions of the work
 - L x B x H cm
 - dimesions of of transport crates
 
-### spatial requirements
+### Spatial Requirements
 - how much floor/wall space is needed? (m²)
 - Does it need a separate room? 
 - Does the work go well with daylight?
@@ -39,7 +39,7 @@ This documents compiles a list of questions that guies you through the process o
 - humidity?
 
 
-### technical requirements to be provided by the exhibition/venue?
+### Technical Requirements to be provided by the Exhibition/Venue?
 - [mains power](https://en.wikipedia.org/wiki/Mains_electricity) e.g. 220V / 50hz / max 16 amps
 - plug system? [Schuko](https://en.wikipedia.org/wiki/Schuko), French, British, US
 - do you need [earthing](https://en.m.wikipedia.org/wiki/Earthing_system)/ground/[Schutzleiter](https://de.m.wikipedia.org/wiki/Schutzleiter)?
@@ -50,18 +50,18 @@ This documents compiles a list of questions that guies you through the process o
 - does it need a projector (what resolution/lumen etc.)?
 - best is to name the exact model. Looks professional, but in most cases, you get something else ;(
 
-### consumables
+### Consumables
 - do you need consumables for the installation?
 - things that can't be shipped because they are marked as dangerous? e.g chemicals, gasses etc
 - e.g. cable ties?
 
-### componets (technological and others) to be provided by the artist
+### Componets (technological and others) to be provided by the Artist (shipped)
 - make a list of components (eventually document every single part/element photographically)
 
-### lighting
+### Lighting
 - what kind of light setting is required for optimal presentation. spots, wall washer, profiles?
 
-### sound
+### Sound / Audio
 - is it a loud piece?
 - does it interfere with surrounding works?
 - does it needs its own acoustic space?
