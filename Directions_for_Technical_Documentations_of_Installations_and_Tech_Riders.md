@@ -104,5 +104,5 @@ This documents compiles a list of questions that guies you through the process o
 - Best practices for conservation of media art (Rafael Lozano-Hemmer)
 [link](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
 
-- some of @rlfbckr tech riders + guides
+- some of (@rlfbckr)[https://github.com/rlfbckr/] tech riders + guides
 [link](https://drive.google.com/drive/folders/180cgY8QufPIBlDxNgju6u0dyK-2E21Qy?usp=sharing)
