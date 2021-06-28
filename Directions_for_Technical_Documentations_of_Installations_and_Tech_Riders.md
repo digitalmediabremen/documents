@@ -73,7 +73,7 @@ This documents compiles a list of questions that guies you through the process o
 - in general, transport is covered by the exhibitor
 - build crates (only sometimes comes by the exhibitor)
 - make them ready for international shipping ( ISPM 15)
-- check custom situation for countries outside EU / maybe a Carnet ATA (passport for goods is needed)
+- check custom situation for countries outside EU / maybe a [Carnet ATA](https://en.wikipedia.org/wiki/ATA_Carnet) (passport for goods is needed)
 
 
 ### Setup / Installation
