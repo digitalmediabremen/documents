@@ -26,7 +26,7 @@ This documents compiles a list of questions that guies you through the process o
 - (dimesions of the transport crates)
 
 ### Spatial Requirements
-- how much floor/wall space is needed? (m²)
+- how much floor/wall space is needed? `Lengt x Width m ` + `m²` 
 - Does it need a separate room? 
 - Does the work go well with daylight?
 - or does it need a blackout room?
