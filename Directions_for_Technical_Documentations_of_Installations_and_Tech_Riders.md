@@ -56,7 +56,8 @@ This documents compiles a list of questions that guies you through the process o
 - e.g. cable ties?
 
 ### Componets (technological and others) to be provided by the Artist (shipped)
-- make a list of components (eventually document every single part/element photographically)
+- make a list of all components (eventually document every single part/element photographically)
+- parts/packing list are often requires for custom declartions 
 
 ### Lighting
 - what kind of light setting is required for optimal presentation. spots, wall washer, profiles?
