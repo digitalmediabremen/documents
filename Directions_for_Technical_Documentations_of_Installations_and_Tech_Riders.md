@@ -19,7 +19,7 @@ Tech riders have their origin in theater, dance, and live music events. They are
 
 
 ### dimensions
-- rough dimensions of the work
+- dimensions of the work
 - L x B x H cm
 - dimesions of of transport crates
 
@@ -38,7 +38,7 @@ Tech riders have their origin in theater, dance, and live music events. They are
 
 
 ### technical requirements to be provided by the exhibition/venue?
-- main power: 220V / 50hz / max xx amps
+- [mains power](https://en.wikipedia.org/wiki/Mains_electricity): 220V / 50hz / max xx amps
 - plug system? Schuko
 - do you need earthing/ground?
 - remember that’s not common outside of Europe, North America, and parts of East Asia)
