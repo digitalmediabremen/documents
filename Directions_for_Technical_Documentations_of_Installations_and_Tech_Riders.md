@@ -95,7 +95,7 @@ Tech riders have their origin in theater, dance, and live music events. They are
 ## Resources
 
 - Best practices for conservation of media art (Rafael Lozano-Hemmer)
-(link)[https://github.com/antimodular/Best-practices-for-conservation-of-media-art]
+[link](https://github.com/antimodular/Best-practices-for-conservation-of-media-art)
 
 - some of @rlfbckr tech riders + guides
-(link)[https://drive.google.com/drive/folders/180cgY8QufPIBlDxNgju6u0dyK-2E21Qy?usp=sharing]
+[link](https://drive.google.com/drive/folders/180cgY8QufPIBlDxNgju6u0dyK-2E21Qy?usp=sharing)
