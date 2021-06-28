@@ -5,7 +5,7 @@
 In general, it is recommended to document the full hard- and software stack of your projects to adapt, recreate and repair them in the future.
 
 - archive parts/components (e.g., cad + 3d files to repair or recreate all elements of a particular work)
-- note part/model numbers and where you have ordered them.
+- note part/model numbers and where you have ordered them. make a BOM
 - archive source code and comment your code
 - write detailed README.md files ;)
 - make backups; sometimes even full raspberry pi images.
@@ -21,6 +21,7 @@ Tech riders have their origin in theater, dance, and live music events. They are
 ### dimensions
 - rough dimensions of the work
 - L x B x H cm
+- dimesions of of transport crates
 
 ### spatial requirements
 - how much floor/wall space is needed? (m²)
@@ -41,9 +42,9 @@ Tech riders have their origin in theater, dance, and live music events. They are
 - plug system? Schuko
 - do you need earthing/ground?
 - remember that’s not common outside of Europe, North America, and parts of East Asia)
-- https://en.m.wikipedia.org/wiki/Earthing_system
-- https://de.m.wikipedia.org/wiki/Schutzleiter
-- https://photos.app.goo.gl/xEAfmE82VwtSfs2R7
+- [Earthing systems](https://en.m.wikipedia.org/wiki/Earthing_system)
+- [Schutzleiter](https://de.m.wikipedia.org/wiki/Schutzleiter)
+- [example of a not so well done power grid extension](https://photos.app.goo.gl/xEAfmE82VwtSfs2R7)
 - does it need audio tech? what speakers/PA is it exactly?
 - does it need a network (ethernet/wifi) connection?
 - does it need a projector (what resolution/lumen etc.)?
@@ -94,7 +95,7 @@ Tech riders have their origin in theater, dance, and live music events. They are
 ## Resources
 
 - Best practices for conservation of media art (Rafael Lozano-Hemmer)
-https://github.com/antimodular/Best-practices-for-conservation-of-media-art
+(link)[https://github.com/antimodular/Best-practices-for-conservation-of-media-art]
 
-- some of my tech riders + guides
-https://drive.google.com/drive/folders/180cgY8QufPIBlDxNgju6u0dyK-2E21Qy?usp=sharing
+- some of @rlfbckr tech riders + guides
+(link)[https://drive.google.com/drive/folders/180cgY8QufPIBlDxNgju6u0dyK-2E21Qy?usp=sharing]
