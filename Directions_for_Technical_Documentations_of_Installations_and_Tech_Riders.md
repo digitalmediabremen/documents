@@ -38,13 +38,11 @@ Tech riders have their origin in theater, dance, and live music events. They are
 
 
 ### technical requirements to be provided by the exhibition/venue?
-- [mains power](https://en.wikipedia.org/wiki/Mains_electricity): 220V / 50hz / max xx amps
-- plug system? Schuko
-- do you need earthing/ground?
+- [mains power](https://en.wikipedia.org/wiki/Mains_electricity) e.g. 220V / 50hz / max 16 amps
+- plug system? [Schuko](https://en.wikipedia.org/wiki/Schuko), French, British, US
+- do you need [earthing](https://en.m.wikipedia.org/wiki/Earthing_system)/ground/[Schutzleiter](https://de.m.wikipedia.org/wiki/Schutzleiter)
 - remember that’s not common outside of Europe, North America, and parts of East Asia)
-- [Earthing systems](https://en.m.wikipedia.org/wiki/Earthing_system)
-- [Schutzleiter](https://de.m.wikipedia.org/wiki/Schutzleiter)
-- [example of a not so well done power grid extension](https://photos.app.goo.gl/xEAfmE82VwtSfs2R7)
+- [example of a not so well done mains power extension](https://photos.app.goo.gl/xEAfmE82VwtSfs2R7)
 - does it need audio tech? what speakers/PA is it exactly?
 - does it need a network (ethernet/wifi) connection?
 - does it need a projector (what resolution/lumen etc.)?
