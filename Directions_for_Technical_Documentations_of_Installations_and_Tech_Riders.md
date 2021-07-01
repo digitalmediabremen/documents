@@ -21,10 +21,11 @@ In general, it is recommended to document the full hard- and software stack of y
 This documents compiles a list of questions that guies you through the process of writing a propper tech rider.
 
 
-### Dimensions
+### Dimensions/Duration
 - dimensions of the work
 - `Lenght x Width x Height cm`
 - (dimesions of the transport crates)
+- if its a performance or video piece name the `Duration in minutes`
 
 ### Spatial Requirements
 - how much floor/wall space is needed? `Lengt x Width m ` + `m²` 
