@@ -73,8 +73,6 @@ This documents compiles a list of questions that guies you through the process o
 - does it interfere with surrounding works?
 - does it needs its own acoustic space?
 
-### Installation
-- materials like tools, monitor, tables, charis needed for the installation preocess.
 
 ### Transport Requirements
 - consider different transport option
@@ -89,6 +87,7 @@ This documents compiles a list of questions that guies you through the process o
 - how long do you need for the installation
 - do you have to do the installation by yourself?
 - do you need an assisting person for the installation, and for how long?
+- materials like tools, monitor, tables, charis needed for the installation preocess.
 
 
 ### Maintenance
