@@ -11,7 +11,8 @@ In general, it is recommended to document the full hard- and software stack of y
 - make backups; sometimes even full raspberry pi images.
 - a git repository can be an excellent way to track changes and distribute them on different devices.
 - document critical parts of the installation process (photos and screenshots)
-
+- try to make the installation of your work as easy as possible. (Ideally, it should work without you)
+- try to avoid dirty hacks ;)
 
 ## Technical Riders
 
