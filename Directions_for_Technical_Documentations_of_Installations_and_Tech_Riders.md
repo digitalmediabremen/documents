@@ -47,10 +47,10 @@ This documents compiles a list of questions that guies you through the process o
 
 ### Technical Requirements (Componets to be provided by the Exhibition/Venue)
 - [mains power](https://en.wikipedia.org/wiki/Mains_electricity) e.g. `220V / 50hz / max 16 amps`
-- plug system? [Schuko](https://en.wikipedia.org/wiki/Schuko), French, British, US
-- do you need [earthing](https://en.m.wikipedia.org/wiki/Earthing_system)/ground/[Schutzleiter](https://de.wikipedia.org/wiki/Schutzleiter)?
-- remember that’s not common outside of Europe, North America, and parts of East Asia)
-- [example of a not so well done mains power extension](https://photos.app.goo.gl/xEAfmE82VwtSfs2R7)
+  - plug system? [Schuko](https://en.wikipedia.org/wiki/Schuko), French, British, US
+  - do you need [earthing](https://en.m.wikipedia.org/wiki/Earthing_system)/ground/[Schutzleiter](https://de.wikipedia.org/wiki/Schutzleiter)?
+  - remember that’s not common outside of Europe, North America, and parts of East Asia)
+  - [example of a not so well done mains power extension](https://photos.app.goo.gl/xEAfmE82VwtSfs2R7)
 - does it need audio tech? what speakers/PA is it exactly?
 - does it need a network (ethernet/wifi) connection?
 - does it need a projector (what resolution/lumen etc.)? `4k 6000 Lumens`
