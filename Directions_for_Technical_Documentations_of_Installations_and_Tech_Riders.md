@@ -12,7 +12,7 @@ In general, it is recommended to document the full hard- and software stack of y
 - a git repository can be an excellent way to track changes and distribute them on different devices.
 - document critical parts of the installation process (photos and screenshots)
 - try to make the installation of your work as easy as possible. (Ideally, it should work without you)
-- try to avoid dirty hacks ;)
+- try to avoid *dirty* hacks ;)
 
 ## Technical Riders
 
@@ -22,17 +22,16 @@ This documents compiles a list of questions that guies you through the process o
 
 
 ### Dimensions/Duration
-- dimensions of the work
-- `Lenght x Width x Height cm`
-- (dimesions of the transport crates)
-- if its a performance or video piece name the `Duration in minutes`
+- dimensions of the work `Lenght x Width x Height cm`
+- if its a performance or video piece name the `duration in minutes`
+- if exits form (e.g wood), dimesions and weight of the transport crates `Lenght x Width x Height cm` + `KG`
 
 ### Spatial Requirements
 - how much floor/wall space is needed? `Lengt x Width m ` + `m²` 
 - Does it need a separate room? 
 - Does the work go well with daylight?
 - or does it need a blackout room?
-- wall color?
+- wall color? `RAL <number>` [overview](https://www.ral-farben.de/en/all-ral-colours)
 - maybe a light trap at the entrance?
 - special floor requirements? concrete?
 - add a floor plan/drawing of the installation to the rider.
