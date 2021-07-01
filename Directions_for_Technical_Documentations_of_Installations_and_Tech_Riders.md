@@ -45,7 +45,7 @@ This documents compiles a list of questions that guies you through the process o
 - dirt and dust?
 
 
-### Technical Requirements to be provided by the Exhibition/Venue?
+### Technical Requirements (Componets to be provided by the Exhibition/Venue)
 - [mains power](https://en.wikipedia.org/wiki/Mains_electricity) e.g. `220V / 50hz / max 16 amps`
 - plug system? [Schuko](https://en.wikipedia.org/wiki/Schuko), French, British, US
 - do you need [earthing](https://en.m.wikipedia.org/wiki/Earthing_system)/ground/[Schutzleiter](https://de.wikipedia.org/wiki/Schutzleiter)?
