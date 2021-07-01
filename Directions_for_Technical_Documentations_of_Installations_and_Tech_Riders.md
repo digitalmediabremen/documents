@@ -21,9 +21,9 @@ In general, it is recommended to document the full hard- and software stack of y
 
 This documents compiles a list of questions that guies you through the process of writing a propper tech rider.
 
-### Descriptio
+### Description
 - formal and functional description of the work
-- installtion shot
+- installtion shot showing all componets
 
 ### Dimensions/Duration
 - dimensions of the work `Lenght x Width x Height cm`
