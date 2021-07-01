@@ -13,6 +13,7 @@ In general, it is recommended to document the full hard- and software stack of y
 - document critical parts of the installation process (photos and screenshots)
 - try to make the installation of your work as easy as possible. (Ideally, it should work without you)
 - try to avoid *dirty* hacks ;)
+- have a lookg at the [Directions for Marking Save and Stable Installations](Directions_for_Marking_Save_and_Stable_Installations.md)
 
 ## Technical Riders
 
