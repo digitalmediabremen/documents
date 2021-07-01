@@ -42,6 +42,7 @@ This documents compiles a list of questions that guies you through the process o
 - Does the work need modification of the space?
 - does it hang from the ceiling? is it possible?
 - humidity?
+- dirt and dust?
 
 
 ### Technical Requirements to be provided by the Exhibition/Venue?
