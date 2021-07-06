@@ -1,6 +1,6 @@
 # Directions for Marking Save and Stable Installations
 
-(only a Stub in the maling)
+(only a Stub in the maiking)
 
 ## Safety Measures for Electromechanical and Kinetic Artworks
 
