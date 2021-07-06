@@ -51,6 +51,7 @@ This documents compiles a list of questions that guies you through the process o
   - do you need [earthing](https://en.m.wikipedia.org/wiki/Earthing_system)/ground/[Schutzleiter](https://de.wikipedia.org/wiki/Schutzleiter)?
   - remember that’s not common outside of Europe, North America, and parts of East Asia)
   - [example of a not so well done mains power extension](https://photos.app.goo.gl/xEAfmE82VwtSfs2R7)
+  - how many plugs do you need?
 - does it need audio tech? what speakers/PA is it exactly?
 - does it need a network (ethernet/wifi) connection?
 - does it need a projector (what resolution/lumen etc.)? `4k 6000 Lumens`
