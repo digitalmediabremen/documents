@@ -28,7 +28,7 @@ This documents compiles a list of questions that guies you through the process o
 ### Dimensions/Duration
 - dimensions of the work `Lenght x Width x Height cm`
 - if its a performance or video piece name the `duration in minutes`
-- if exits form (e.g wood), dimesions and weight of the transport crates `Lenght x Width x Height cm` + `KG`
+- if exits name type (e.g wood), dimesions and weight of the transport crates `Lenght x Width x Height cm` + `KG`
 
 ### Spatial Requirements
 - how much floor/wall space is needed? `Lengt x Width m ` + `m²` 
