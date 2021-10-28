@@ -30,7 +30,7 @@ from my own experience i can say that there is no single method which i found su
 - matrix
 - variations
 
-@todo( add more examples to explanations )
+there is also a related wikipedia category [Creativity Techniques](https://en.wikipedia.org/wiki/Category:Creativity_techniques) which might be more or less helpful.
 
 ### problem solving
 
@@ -164,4 +164,9 @@ despite all the above methods, techniques or tricks probably the most important 
 ---
 
 This document is available as a public document at [Directions for Developing Ideas for a Design/Art Project](http://dm-hb.de/dfdifadap).
+
+---
+
+@todo( add more examples to explanations )
+
 
