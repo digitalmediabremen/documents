@@ -29,6 +29,7 @@ from my own experience i can say that there is no single method which i found su
 - explore analogies
 - matrix
 - variations
+- take things apart and put them back together again
 
 there is also a related wikipedia category [Creativity Techniques](https://en.wikipedia.org/wiki/Category:Creativity_techniques) which might be more or less helpful.
 
@@ -135,6 +136,14 @@ the *parameters* can be of very different quality. consider for example the desi
 
 appart from parameters *physically* connected to the artifact, more conceptual or meta paramters can also be varied. in the chair example a parameter of this quality could be the assumed *user* of the chair. it can create interesting variations to assume the *user* being small or tall, young or old, human or animal.
 
+### take things apart and put them back together again
+
+while this strategy can be taken quite literally ( there is a lot to be learned from looking into a desktop computer every once in a while ;) ) it is also a metaphor for more conceptual and less *mechanical* approaches.
+
+taking things apart obviously refers to the idea of analysing the build blocks that constitut a ( sometime opaque ) final artifact/thing/product. these building blocks are of course not always available, sometimes even hidden deliberatly but e.g watching talks or lectures often give an insight in the *making of*. 
+
+another analogy is the *garage band*. this method refers to a group of moderately avid musicians ( often of younger age ) that come together in the shared interest to *make* music. the constellations often start *working* by playing songs of their favorite musicians. in order to do so these songs must be *taken apart* ( e.g notes, structures, atmosphere ) and *put back together again* ( i.e played or performed ). eventually such *garage bands* would start putting things together in a modified way often too an extend that their *own* music style emerges.
+
 ## Strategies for Presenting + Visualizing Ideas
 
 it is also of grave importance to choose and develop strategies to transport ideas. there is a wide range of proven strategies established in the field of design/art. below is a list of some of the most common ones:
@@ -168,5 +177,3 @@ This document is available as a public document at [Directions for Developing Id
 ---
 
 @todo( add more examples to explanations )
-
-
