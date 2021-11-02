@@ -1,5 +1,7 @@
 # Directions for Developing Ideas for a Design/Art Project
 
+> "Again, just as design is not something to ‘think’, but to do—‘design doing’ over design thinking." from [Dan Hill: Design education needs physical space](https://medium.com/a-chair-in-a-room/design-education-needs-physical-space-35bd49f39549)
+
 ## Methods, Techniques or Tricks for Finding Ideas
 
 generating good ideas is the howly grail in art + design. many myths are shrouding the process of how people come to have good ideas ( see e.g the concept/myth of the *genius* ). there are millions of methods, books, seminars, and writings on the topic. still there is no unifed truth regarding the applicability and quality of such methods; some are better than others while some just work for some people better than for others.
