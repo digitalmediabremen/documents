@@ -1,6 +1,6 @@
 # Directions for Developing Ideas for a Design/Art Project
 
-> "Again, just as design is not something to ‘think’, but to do—‘design doing’ over design thinking." from [Dan Hill: Design education needs physical space](https://medium.com/a-chair-in-a-room/design-education-needs-physical-space-35bd49f39549)
+> "… design is not something to ‘think’, but to do — ‘design doing’ over design thinking." from [Dan Hill: Design education needs physical space](https://medium.com/a-chair-in-a-room/design-education-needs-physical-space-35bd49f39549)
 
 ## Methods, Techniques or Tricks for Finding Ideas
 
