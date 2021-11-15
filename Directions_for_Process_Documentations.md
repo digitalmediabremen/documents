@@ -45,7 +45,9 @@ This document is available as a public document at [Documenting Process](http://
 
 ## todo
 
-@todo(add references)
+- @todo(add references)
+- @todo(process *shaping* tools e.g GANT )
+- @todo(quantifying process e.g measuring time, gauging resources )
 
 ### references
 
