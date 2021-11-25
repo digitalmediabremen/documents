@@ -49,8 +49,8 @@ A project proposal/concept (e.g. in the form of a presentation, pdf document or 
 
 ## How do you perform/present the proposal?
 
-- classically with a projector!
-- what could be alternative forms of presentations?
+- Classically with a projector!
+- What could be alternative forms of presentations?
 - e.g. a performance, a recorded Videos or maybe reading a text?
 
 ## Make it look nice!
