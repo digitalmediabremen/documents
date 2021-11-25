@@ -97,7 +97,7 @@ the project passed a certain scale)
 
 - Make a precise calculation of the planned project incl. contingency.
 - Does the project fit in your budget?
-- Ask your grandma for some cash?
+- Ask your grandma for some cash! ;)
 - Ask your professor to buy some stuff for general purposes.
 - Apply for the HEC stipend!
 
