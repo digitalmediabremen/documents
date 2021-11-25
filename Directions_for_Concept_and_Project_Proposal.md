@@ -61,11 +61,11 @@ A project proposal/concept (e.g. in the form of a presentation, pdf document or 
 - Use another medium to communicate your point!
 - (keep it simple)
 
-## known problems ;)
+## Known Problems ;)
 
 - Sometimes a project is not that clear yet. 
-- Sometimes we don’t know where a project is leading to. this is not a problem is a *feature* 
-- Sometimes it is difficult to visualize a project yet.
+- Sometimes we don’t know where a project is leading to. This is not a problem is a *feature*. Trust yourself that you are on the right track.
+- Sometimes it is difficult to visualize a project yet. Try it with diffrent tools e.g. pyhsical models. It will help you to unterstand it.
 - Some help might be found here: [Theory and Design-driven Artistic Practice with, about and through (new) Technologies and Media](https://docs.google.com/document/d/1uwNdwLStjFsURw0eKTtNJv-CyWoTwwJ08jGdl2DszSw/edit)
 
 # Bonus
