@@ -1,7 +1,6 @@
 # Directions for Concept and Project Proposals
 
-A very rough guide for producing a project proposal/concept (a project that has not been realized but is in the state of research and experimentation already). a listing of helpful questions and ingredients.
-not all ingredients are necessary for all projects. 
+A very rough guide for producing a project proposal/concept (a project that has not been realized but is in the state of research and experimentation already). A listing of helpful questions and ingredients. Not all ingredients are necessary for all projects. 
 
 ## General
 
