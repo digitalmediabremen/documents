@@ -12,7 +12,7 @@ A project proposal/concept (e.g. in the form of a presentation, pdf document or 
 *Concepts are not in your head: they are things, peoples, zones, regions, thresholds, gradients, temperatures, speeds, etc.*
 { Gilles Deleuze, Desert Islands and Other Texts 1953-1974, p 312 } 
 
-- What is the “impulse” for the project?
+- What is the *“impulse”* for the project?
 - What is your motivation?
 - How does this project relate to previous projects or interests? (maybe it is connected to research that reached back to previous projects )
 - Name references from Design, Art, Media Theory, Science, Philosophy etc.
