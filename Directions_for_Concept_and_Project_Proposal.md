@@ -90,7 +90,7 @@ the project passed a certain scale)
   - Testing
   - Transport
   - Installation
-  - Exhibiting and/or Presenting
+  - Exhibition or Presentation
   - Documentation
 
 ## Budget
