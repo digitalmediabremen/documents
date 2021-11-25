@@ -82,8 +82,16 @@ the project passed a certain scale)
 
 ## Schedule/Timetable
 
-- Plan the different steps of the project implementation
-- Research, Experimenting, Prototyping, Production, Testing, Installation, exhibiting and/or presenting
+- Plan the different steps of the project implementation:
+  - Research
+  - Experimenting
+  - Prototyping
+  - Production
+  - Testing
+  - Transport
+  - Installation
+  - Exhibiting and/or Presenting
+  - Documentation
 
 ## Budget
 
