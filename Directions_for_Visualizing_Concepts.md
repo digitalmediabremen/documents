@@ -40,7 +40,7 @@ visualization styles can be very neutral, conforming to industry or other standa
 
 ![dennis p paul: rotierender-fernseher](./assets/rotierender-fernseher.jpg)   
 
-@caption(dennis p paul: rotierender-fernseher, although this *just* a hand sketches it shows a specific *illustration* style which can be developed and cultivated into a recognizable *style*)
+@caption(dennis p paul: rotierender-fernseher, although this is *just* a hand sketches it shows a specific *illustration* style which can be developed and cultivated into a recognizable *style*)
 
 ## Projects that are *only* Concept Visualizations
 
