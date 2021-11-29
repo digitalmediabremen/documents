@@ -100,3 +100,6 @@ the project passed a certain scale)
 - Ask your professor to buy some stuff for general purposes.
 - Apply for the HEC stipend!
 
+---
+
+This document is available as a public document at [Directions for Concept and Project Proposals](http://dm-hb.de/dfcapp).
