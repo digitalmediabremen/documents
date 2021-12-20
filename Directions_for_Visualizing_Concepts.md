@@ -106,5 +106,3 @@ Evaluating how to visualize at what stage in a project is key! Below are some ex
 ---
 
 This document is available as a public document at [Directions for Visualizing Concepts](http://dm-hb.de/dmdfvc).
-
-
