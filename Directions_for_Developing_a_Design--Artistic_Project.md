@@ -96,6 +96,22 @@ This question can be addressed from different directions. for example:
 
 regardless of which perspective is used as a qualifier, it is well worth noting that each stage might be *enough* for a project to be complete.
 
+## [10 Rules for Students, Teachers, and Life by John Cage and Sister Corita Kent](https://www.themarginalian.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/)
+
+- RULE ONE: Find a place you trust, and then try trusting it for awhile.
+- RULE TWO: General duties of a student — pull everything out of your teacher; pull everything out of your fellow students.
+- RULE THREE: General duties of a teacher — pull everything out of your students.
+- RULE FOUR: Consider everything an experiment.
+- RULE FIVE: Be self-disciplined — this means finding someone wise or smart and choosing to follow them. To be disciplined is to follow in a good way. To be self-disciplined is to follow in a better way.
+- RULE SIX: Nothing is a mistake. There’s no win and no fail, there’s only make.
+- RULE SEVEN: The only rule is work. If you work it will lead to something. It’s the people who do all of the work all of the time who eventually catch on to things.
+- RULE EIGHT: Don’t try to create and analyze at the same time. They’re different processes.
+- RULE NINE: Be happy whenever you can manage it. Enjoy yourself. It’s lighter than you think.
+- RULE TEN: “We’re breaking all the rules. Even our own rules. And how do we do that? By leaving plenty of room for X quantities.” (John Cage)
+- HINTS: Always be around. Come or go to everything. Always go to classes. Read anything you can get your hands on. Look at movies carefully, often. Save everything — it might come in handy later.
+
+( also in [Sister Corita’s Learning by Heart: Teachings to Free the Creative Spirit](https://www.worldcat.org/title/learning-by-heart-teachings-to-free-the-creative-spirit/oclc/214308999&referer=brief_results) )
+
 ---
 
 This document is available as a public document at [Directions for Developing a Design/Artistic Project](http://dm-hb.de/dmdfdadap).
