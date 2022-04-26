@@ -22,6 +22,7 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
     - website
     - series of experiments
     - performance
+    - body extension / cyborg organ
     - *Aktion*
 - what form/format are you using for *publishing*? e.g
     - exhibition
