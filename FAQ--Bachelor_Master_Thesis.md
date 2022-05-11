@@ -14,4 +14,4 @@ laut bachelorprüfungsordnung ( BPO ) braucht man 120CP. auch muss man alle modu
 
 ---
 
-This document is available as a public document at [Documenting Process](http://dm-hb.de/dmfaqbmt).
+This document is available as a public document at [FAQ / Bachelor + Master Theses](http://dm-hb.de/dmfaqbmt).
