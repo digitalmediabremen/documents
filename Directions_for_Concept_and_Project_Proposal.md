@@ -25,7 +25,7 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
     - series of experiments
     - performance
     - body extension / wearable / cyborg organ
-    - *Aktion*
+    - interventio/*Aktion*
 - what form/format are you using for *publishing*? e.g
     - exhibition
     - performance
