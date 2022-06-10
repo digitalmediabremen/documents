@@ -10,6 +10,8 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
 
 - what was the *impulse* for the project?
 - what is your motivation?
+- is there a questions that the projects tries to answer? what is this (research) question?
+- what is the problem and who cares about it?
 - how does this project relate to previous projects or interests? ( maybe it is connected to research that reaches back to some of your previous projects or to projects of others )
 - name references from Design, Art, Media Theory, Science, Philosophy etc.
 - what form/media does the project have/use? e.g
@@ -29,6 +31,7 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
     - performance
     - commercial product
     - blog-o-sphere
+ - is there a specific entaglement/relation between the content matter and the used media/tech?
 
 ## Sketch and Visualize
 
@@ -47,7 +50,7 @@ for further information and inspiration see [Directions_for_Visualizing_Concepts
 
 ## Technical Implementation
 
-- how is it realized?
+- how will it be realized?
 - what technologies/materials are you using?
 - is there something unique about the used tech?
 - how are you using technology?
