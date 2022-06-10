@@ -12,7 +12,7 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
 - what is your motivation?
 - how does this project relate to previous projects or interests? ( maybe it is connected to research that reaches back to some of your previous projects or to projects of others )
 - name references from Design, Art, Media Theory, Science, Philosophy etc.
-- what form does the project have? e.g
+- what form/media does the project have/use? e.g
     - installation
     - digital object
     - physical object
