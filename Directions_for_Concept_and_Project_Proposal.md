@@ -36,6 +36,7 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
     - blender
     - processing.org
     - photoshop
+    - montage
     - illustrator
     - pen&paper
     - materials
