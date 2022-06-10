@@ -9,9 +9,9 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
 > *Concepts are not in your head: they are things, peoples, zones, regions, thresholds, gradients, temperatures, speeds, etc.* { Gilles Deleuze, Desert islands and Other Texts 1953-1974, p 312 } 
 
 - what was the *impulse* for the project?
-- what is your motivation?
-- is there a questions that the projects tries to answer? what is this (research) question?
-- what is the problem and who cares about it?
+- what is your *motivation*?
+- is there a *questions* that the projects tries to answer?
+- what is the *problem* and *who cares* about it?
 - how does this project relate to previous projects or interests? ( maybe it is connected to research that reaches back to some of your previous projects or to projects of others )
 - name references from Design, Art, Media Theory, Science, Philosophy etc.
 - what form/media does the project have/use? e.g
@@ -31,9 +31,14 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
     - performance
     - commercial product
     - blog-o-sphere
- - is there a specific entaglement/relation between the content matter and the used media/tech?
+ - go from the *general* to the *specific*! working about an wide and abstract topic is difficult if not impossible. try to make a case out of a more general questions. 
+ - how does the used media/technology/material transport or reflect the subject matter?
+ - consider what *you* as a *designer/artist* can contribute to this question/field with the specified forms, media, methods, knowledge and languages of *art, design and technology*? 
+
 
 ## Sketch and Visualize
+
+visualizing the project *can* be a crucial element of a concept/project proposal? It is especially important for (interactive) installations, machines, applications, etc. Try to visualize the core idea so they become immediately readable/understandable. often a visualization becomes the main medium to think/imagine/discuss the implementation of the work.
 
 - sketch and visualize in your preferred medium or software e.g 
     - blender
