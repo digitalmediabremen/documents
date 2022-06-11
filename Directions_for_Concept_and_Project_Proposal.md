@@ -1,20 +1,20 @@
 # Directions for Concept and Project Proposals
 
-this is a very rough guide for producing a *project proposal* ( or concept ). in this context the proposal refers to a project that has not been realized but is already in the state of research and experimentation. what follows is a listing of helpful questions and *ingredients*. Not all *ingredients* are necessary for all projects but may act as a guideline, starting point or default:
+This is a very rough guide for producing a *project proposal* ( or concept ). A *proposal* refers to a project that has not been realized but is already in the state of research, experimentation, and eventually already in the state of production. What follows is a listing of helpful questions and *ingredients*. Not all *ingredients* are necessary for all projects but may act as a guideline, starting point or default:
 
-a *project proposal* ( e.g in the form of a presentation, PDF document or a video ) is an essential tool to communicate and discuss a project’s concept and its potential implementation. in a professional context it is a medium that is crucial for example for applying for project funding in commercial or in the public cultural sector as well as applications for grants, calls for stipends, pitches but also for more novel formats like crowdfunding projects.
+Note: A *project proposal* ( e.g in the form of a presentation, PDF document, or video ) is an essential tool to communicate and discuss a project’s concept and its potential implementation. In professional contexts it is a medium that is crucial for example for applying for project funding in commercial or in the public cultural sector as well as applications for grants, calls for stipends, pitches but also for more novel formats like crowdfunding projects.
 
-## Description of the Concept/Idea
+## Description of the Concept / Idea
 
 > *Concepts are not in your head: they are things, peoples, zones, regions, thresholds, gradients, temperatures, speeds, etc.* { Gilles Deleuze, Desert islands and Other Texts 1953-1974, p 312 } 
 
-- what was the *impulse* for the project?
-- what is your *motivation*?
-- is there a *questions* that the projects tries to answer?
-- what is the *problem* and *who cares* about it?
-- how does this project relate to previous projects or interests? ( maybe it is connected to research that reaches back to some of your previous projects or to projects of others )
-- name references from Design, Art, Media Theory, Science, Philosophy etc.
-- what form/media does the project have/use? e.g
+- What was the *impulse* for the project?
+- What is your *motivation*?
+- Is there a *questions* that the projects tries to answer?
+- What is the *problem* and *who cares* about it?
+- How does this project relate to previous projects or interests? ( maybe it is connected to research that reaches back to some of your previous projects or to projects of others )
+- Name references and existing work from Design, Art, Media Theory, Science, Philosophy etc. Be knowledgeable about the filed where you are working in. *(This might not be relevant in professional proposals but in the context of University projects very helpful. Be)*
+- What form/media does the project have/use? e.g
     - installation
     - digital object
     - physical object
@@ -26,21 +26,21 @@ a *project proposal* ( e.g in the form of a presentation, PDF document or a vide
     - performance
     - body extension / wearable / cyborg organ
     - interventio/*Aktion*
-- what form/format are you using for *publishing*? e.g
+- What form/format are you using for *publishing*? e.g
     - exhibition
     - performance
     - commercial product
     - blog-o-sphere
- - go from the *general* to the *specific*! working about an wide and abstract topic is difficult if not impossible. try to make a case out of a more general questions. 
- - how does the used media/technology/material transport or reflect the subject matter?
- - consider what *you* as a *designer/artist* can contribute to this question/field with the specified forms, media, methods, knowledge and languages of *art, design and technology*? 
+ - Go from the *general* to the *specific*! Working about *a wide and abstract* topic is difficult if not impossible. Try to make a case out of a more general questions. 
+ - How does the used media/technology/material transport or reflect the subject matter?
+ - Consider what *you* as a *designer/artist* can contribute to this question/field with the specified forms, methods, knowledge and languages of *art, design* and *technology*? 
 
 
 ## Sketch and Visualize
 
-visualizing the project *can* be a crucial element of a concept/project proposal? It is especially important for (interactive) installations, machines, applications, etc. Try to visualize the core idea so they become immediately readable/understandable. often a visualization becomes the main medium to think/imagine/discuss the implementation of the work.
+Visualizations *can* be a central part of a concept/project proposal. It is especially important for (interactive) installations, machines, and applications but also for more complex conceptional arangement. Try to visualize the core idea, so they become immediately readable/understandable for the reader/audience. Often a visualization becomes the main medium to think/imagine/discuss the implementation of the work.
 
-- sketch and visualize in your preferred medium or software e.g 
+- Sketch and visualize in your preferred medium or software e.g 
     - blender
     - processing.org
     - photoshop
@@ -48,8 +48,8 @@ visualizing the project *can* be a crucial element of a concept/project proposal
     - illustrator
     - pen&paper
     - materials
-- simulations and/or renderings / screenshots
-- photos of physical models ( drawing into photos can help as well )
+- Simulations and/or renderings / screenshots
+- Photos of physical models ( drawing into photos can help as well )
 
 for further information and inspiration see [Directions_for_Visualizing_Concepts](http://dm-hb.de/dmdfvc)
 
