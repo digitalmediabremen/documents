@@ -53,7 +53,7 @@ visualizing the project *can* be a crucial element of a concept/project proposal
 
 for further information and inspiration see [Directions_for_Visualizing_Concepts](http://dm-hb.de/dmdfvc)
 
-## Technical Implementation
+## (Technical) Implementation
 
 - how will it be realized?
 - what technologies/materials are you using?
