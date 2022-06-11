@@ -12,8 +12,9 @@ Note: A *project proposal* ( e.g in the form of a presentation, PDF document, or
 - What is your *motivation*?
 - Is there a *questions* that the projects tries to answer?
 - What is the *problem* and *who cares* about it?
-- How does this project relate to previous projects or interests? ( maybe it is connected to research that reaches back to some of your previous projects or to projects of others )
-- Name references and existing work from Design, Art, Media Theory, Science, Philosophy etc. Be knowledgeable about the filed where you are working in. *(This might not be relevant in professional proposals but in the context of University projects very helpful. Be)*
+- What is the *context* of the project? What makes it *important*? Why is it *necessary*?
+- How does this project *relate* to previous projects or interests? ( maybe it is connected to research that reaches back to some of your previous projects or to projects of others )
+- Name *references* and existing work from Design, Art, Media Theory, Science, Philosophy etc. Be *knowledgeable* about the filed where you are working in. *(This might not be relevant in professional proposals but in the context of University projects very helpful. Be)*
 - What form/media does the project have/use? e.g
     - installation
     - digital object
@@ -38,7 +39,7 @@ Note: A *project proposal* ( e.g in the form of a presentation, PDF document, or
 
 ## Sketch and Visualize
 
-Visualizations *can* be a central part of a concept/project proposal. It is especially important for (interactive) installations, machines, and applications but also for more complex conceptional arangement. Try to visualize the core idea, so they become immediately readable/understandable for the reader/audience. Often a visualization becomes the main medium to think/imagine/discuss the implementation of the work.
+Visualizations *can* be a central part of a concept/project proposal. It is especially important for (interactive) installations, machines, and applications but also for more complex conceptional arangement. Try to visualize the core idea, so they become immediately *readable/understandable* for the reader/audience. Often a visualization becomes the main medium to think/imagine/discuss the implementation of the work.
 
 - Sketch and visualize in your preferred medium or software e.g 
     - blender
