@@ -1,6 +1,6 @@
 # Directions for Concept and Project Proposals
 
-This is a very rough guide for producing a *project proposal* ( or concept ). A *proposal* refers to a project that has not been realized but is already in the state of research, experimentation, and eventually already in the state of production. What follows is a listing of helpful questions and *ingredients*. Not all *ingredients* are necessary for all projects but may act as a guideline, starting point or default.
+This is a very rough guide for producing a *project proposal* ( or concept ). A *proposal* refers to a project that has not been realized but is already in the state of research, experimentation, and eventually already in the state of production. What follows is a listing of helpful *questions*, *ingredients* and *tips*. Not all *ingredients* are necessary for all projects but may act as a guideline, starting point or default.
 
 Note: A *project proposal* ( e.g in the form of a presentation, PDF document, or video ) is an essential tool to communicate and discuss a project’s concept and its potential implementation. In professional contexts it is a medium that is crucial for example for applying for project funding in commercial or in the public cultural sector as well as applications for grants, calls for stipends, pitches but also for more novel formats like crowdfunding projects.
 
