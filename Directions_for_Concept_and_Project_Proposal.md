@@ -1,11 +1,29 @@
 # Directions for Concept and Project Proposals
 
-This is a very rough guide for producing a *project proposal* ( or concept ). A *proposal* refers to a project that has not been realized but is already in the state of research, experimentation, and eventually already in the state of production. What follows is a listing of helpful questions and *ingredients*. Not all *ingredients* are necessary for all projects but may act as a guideline, starting point or default:
+This is a very rough guide for producing a *project proposal* ( or concept ). A *proposal* refers to a project that has not been realized but is already in the state of research, experimentation, and eventually already in the state of production. What follows is a listing of helpful questions and *ingredients*. Not all *ingredients* are necessary for all projects but may act as a guideline, starting point or default.
 
 Note: A *project proposal* ( e.g in the form of a presentation, PDF document, or video ) is an essential tool to communicate and discuss a project’s concept and its potential implementation. In professional contexts it is a medium that is crucial for example for applying for project funding in commercial or in the public cultural sector as well as applications for grants, calls for stipends, pitches but also for more novel formats like crowdfunding projects.
 
 *A Project Proposal is in constant flux. It develops and becomes more precise while the project develops. Designing it flexibly allows you to use it for different occasions (e.g. funding applications, class presentations, individual critique, etc.). Ideally, in the end, it becomes the [documentation of the project](https://github.com/digitalmediabremen/documents/blob/master/Directions_for_Project_Documentations.md).*
 
+Components
+- Description of the Concept / Idea
+- Sketch and Visualize
+- Implementation / Production
+- Current State of the Project
+
+Form
+- How do you Present/Perform the Proposal?
+- Make it Look Nice and Convincing!
+
+Bonus
+- How does the Audience/Visitor/Recipient/User Experience your Installations/Software/Artifacts/Performance/Product?
+- Schedule/Timetable
+- Budget
+
+Known Problems ;)
+
+# Components
 
 ## Description of the Concept / Idea 
 
@@ -80,15 +98,15 @@ Give us an idea how far the project development is already:
 - What did you try already?
 - What did you learn through the experiments?
 - Did the result of the experiment change the direction of the project?
+- **!! Feasibility Check !!**
+  - Is the project *really* feasible? in regards to ...
+     * available time
+     * financial resources
+     * skills
+     * collaborators
+  - *Be true to yourself!*
 
-## Feasibility Check!
-
-- Is the project *really* feasible? in regards to ...
-    - available time
-    - financial resources
-    - skills
-    - collaborators
-- *Be true to yourself!*
+# Form
 
 ## How do you Present/Perform the Proposal?
 
@@ -98,7 +116,7 @@ Give us an idea how far the project development is already:
     - recorded video
     - text reading
 
-## Make it Look Nice and Convincing!
+## Form: Make it Look Nice and Convincing!
 
 - An appealing presentation helps to communicate your point!
 - presentations also always set a mood or atmosphere
@@ -106,18 +124,6 @@ Give us an idea how far the project development is already:
 - how does the theme/project topic translate into your design?
 - use another medium to communicate your point!
 - KIS ( keep it simple )
-
-## Known Problems ;)
-
-- Sometimes a project is not that clear yet. 
-- Sometimes we don’t know where a project is leading to. Do not make it a problem but a *feature*. but also make sure to communicate your interests and reflect upon why you want to embark on such exploration. Trust the process!
-- Sometimes it is difficult to prematurely *visualize* a project. Try it anyway. It will help other but also youself to unterstand what you are onto. use all sorts of different tools or media e.g:
-    - physical models
-    - sketches
-    - collages
-    - renderings
-
-Find further help at [Theory and Design-driven Artistic Practice with, about and through (new) Technologies and Media](https://docs.google.com/document/d/1uwNdwLStjFsURw0eKTtNJv-CyWoTwwJ08jGdl2DszSw) or at [Directions for Visualizing Concepts](http://dm-hb.de/dmdfvc). 
 
 # Bonus
 
@@ -161,6 +167,20 @@ Carefully plan the different steps of the project implementation, keeping in min
     - ask your grandma for some cash! ;) ( @RB "really?!? this is how you did it?" )
     - ask your professor to buy some components for general use afterwards
     - apply for funding ( e.g HfK student project funding, HEC Sponsorship, HfK Freundeskreis )
+
+
+# Known Problems ;)
+
+- Sometimes a project is not that clear yet. 
+- Sometimes we don’t know where a project is leading to. Do not make it a problem but a *feature*. but also make sure to communicate your interests and reflect upon why you want to embark on such exploration. Trust the process!
+- Sometimes it is difficult to prematurely *visualize* a project. Try it anyway. It will help other but also youself to unterstand what you are onto. use all sorts of different tools or media e.g:
+    - physical models
+    - sketches
+    - collages
+    - renderings
+
+Find further help at [Theory and Design-driven Artistic Practice with, about and through (new) Technologies and Media](https://docs.google.com/document/d/1uwNdwLStjFsURw0eKTtNJv-CyWoTwwJ08jGdl2DszSw) or at [Directions for Visualizing Concepts](http://dm-hb.de/dmdfvc). 
+
 
 ---
 
