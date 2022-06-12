@@ -83,7 +83,8 @@ The implementation/production (designing, experimenting, engineering, building, 
 
 - How will it be realized?
 - What technologies/materials are you using?
-- What technology exists already? What do you have to design/buid?
+- What fabrication methods are you using?
+- What technology exists already? What do you have to design/buid yourself?
 - Is there something unique about the used tech?
 - How are you using technology?
 - What workshops do you need?
