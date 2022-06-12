@@ -17,7 +17,7 @@ Form
 - [Make it Look Nice and Convincing!](#look)
 
 Bonus
-- [How does the Audience/Visitor/Recipient/User *experience* your Installations/Software/Artifacts/Performance/Product?](#perception)
+- [How does the Audience/Visitor/Recipient/User experience your Installations/Software/Artifacts/Performance/Product?](#perception)
 - [Schedule/Timetable](#schedule)
 - [Budget](#budget)
 
@@ -129,7 +129,7 @@ Give us an idea how far the project development is already:
 
 Additional topics or questions to consider while planning or sketching a project ( some of these *ingredients* become especially important when a project exceeds a certain level of complexity ):
 
-## How does the Audience/Visitor/Recipient/User *experience* your Installations/Software/Artifacts/Performance/Product?<a id="preception"></a>
+## How does the Audience/Visitor/Recipient/User *experience* your Installations/Software/Artifacts/Performance/Product?<a id="perception"></a>
 
 - Describe the audience/visitor/recipient/user’s perception/experience ( with words or in other forms )
 - How is the final setup?
