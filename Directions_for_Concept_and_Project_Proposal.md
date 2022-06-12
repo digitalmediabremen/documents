@@ -29,7 +29,7 @@ Extra Components
 
 > *Concepts are not in your head: they are things, peoples, zones, regions, thresholds, gradients, temperatures, speeds, etc.* { Gilles Deleuze, Desert islands and Other Texts 1953-1974, p 312 } 
 
-A project description's preferred medium is *text*. Text is probably the most precise medium to express the core idea of the project and to answer the essential important questions relates to the project. This text, which starts in a preliminary form, might become the accompanying text for the final project documentation on your website/portfolio. In the project description, try to answer the following, for you specific project relevant questions:
+A project description's preferred medium is *text*. Text is probably the most precise medium to express the core idea of your endeavor and allows you to answer the essential questions relating to the project. This text, which starts in a preliminary form, eventually becomes the accompanying text for the final documentation on your website/portfolio. Try to answer the following, for your specific project relevant questions:
 
 - What was the (initial) *impulse* for the project?
 - What is your *motivation*?
