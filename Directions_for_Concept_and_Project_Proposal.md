@@ -7,25 +7,25 @@ Note: A *project proposal* ( e.g in the form of a presentation, PDF document, or
 *A Project Proposal is in constant flux. It develops and becomes more precise while the project develops. Designing it flexibly allows you to use it for different occasions (e.g. funding applications, class presentations, individual critique, etc.). Ideally, in the end, it becomes the [documentation of the project](https://github.com/digitalmediabremen/documents/blob/master/Directions_for_Project_Documentations.md).*
 
 Components
-- Description of the Concept / Idea
-- Sketch and Visualize
-- Implementation / Production
-- Current State of the Project
+- [Description of the Concept / Idea](#concept)
+- [Sketch and Visualize](#visualize)
+- [Implementation / Production](#implementation)
+- [Current State of the Project](#state)
 
 Form
-- How do you Present/Perform the Proposal?
-- Make it Look Nice and Convincing!
+- [How do you Present/Perform the Proposal?](#presentation)
+- [Make it Look Nice and Convincing!](#look)
 
 Bonus
-- How does the Audience/Visitor/Recipient/User Experience your Installations/Software/Artifacts/Performance/Product?
-- Schedule/Timetable
-- Budget
+- [How does the Audience/Visitor/Recipient/User *experience* your Installations/Software/Artifacts/Performance/Product?](#perception)
+- [Schedule/Timetable](#schedule)
+- [Budget](#budget)
 
-Known Problems ;)
+[Known Problems ;)](#problems)
 
 # Components
 
-## Description of the Concept / Idea 
+## Description of the Concept / Idea<a id="concept"></a>
 
 > *Concepts are not in your head: they are things, peoples, zones, regions, thresholds, gradients, temperatures, speeds, etc.* { Gilles Deleuze, Desert islands and Other Texts 1953-1974, p 312 } 
 
@@ -60,7 +60,7 @@ A project description's preferred medium is *text*. Text is probably the most pr
  - Consider what *you* as a *designer/artist* can contribute to this question/field with the specified forms, methods, knowledge and languages of *art, design* and *technology*? 
 
 
-## Sketch and Visualize
+## Sketch and Visualize<a id="visualize"></a>
 
 Visualizations *can* be a central part of a concept/project proposal. It is especially important for (interactive) installations, machines, and applications but also for more complex conceptional arangement. Try to visualize the core idea, so they become immediately *readable/understandable* for the reader/audience. Often a visualization becomes the main medium to think/imagine/discuss the implementation of the work.
 
@@ -77,7 +77,7 @@ Visualizations *can* be a central part of a concept/project proposal. It is espe
 
 for further information and inspiration see [Directions_for_Visualizing_Concepts](http://dm-hb.de/dmdfvc)
 
-## Implementation / Production
+## Implementation / Production<a id="implementation"></a>
 
 The implementation/production (designing, experimenting, engineering, building, installing, filming, ...)  will finally take most of the projects time. It is the central part of every project. Try to be as detailed as possible about it. In professional contexts (commissions or call for stipends) this part is often looked at with special attention.
 
@@ -89,7 +89,7 @@ The implementation/production (designing, experimenting, engineering, building, 
 - What machines do you need for production?
 - Is it a hack or maybe a re-appropriation?
 
-## Current State of the Project
+## Current State of the Project<a id="state"></a>
 
 Give us an idea how far the project development is already:
 
@@ -108,7 +108,7 @@ Give us an idea how far the project development is already:
 
 # Form
 
-## How do you Present/Perform the Proposal?
+## How do you Present/Perform the Proposal?<a id="presentation"></a>
 
 - default: Well prepared slide-based presentation presented on a projector
 - but also take a minute to consider alternative forms of presentations? e.g:
@@ -116,7 +116,7 @@ Give us an idea how far the project development is already:
     - recorded video
     - text reading
 
-## Form: Make it Look Nice and Convincing!
+## Make it Look Nice and Convincing!<a id="look"></a>
 
 - An appealing presentation helps to communicate your point!
 - presentations also always set a mood or atmosphere
@@ -129,7 +129,7 @@ Give us an idea how far the project development is already:
 
 Additional topics or questions to consider while planning or sketching a project ( some of these *ingredients* become especially important when a project exceeds a certain level of complexity ):
 
-## How does the Audience/Visitor/Recipient/User Experience your Installations/Software/Artifacts/Performance/Product?
+## How does the Audience/Visitor/Recipient/User *experience* your Installations/Software/Artifacts/Performance/Product?<a id="preception"></a>
 
 - Describe the audience/visitor/recipient/user’s perception/experience ( with words or in other forms )
 - How is the final setup?
@@ -140,7 +140,7 @@ Additional topics or questions to consider while planning or sketching a project
     - in space
 - Try to also visualze such experiences ( e.g "hello render ghosts ;)" )
 
-## Schedule/Timetable
+## Schedule/Timetable<a id="schedule"></a>
 
 Carefully plan the different steps of the project implementation, keeping in mind that plans a subject to change. What follows are a series of more or less chronological steps for an installation work:
 
@@ -155,7 +155,7 @@ Carefully plan the different steps of the project implementation, keeping in min
 - documentation
 - dissemination
 
-## Budget
+## Budget<a id="budget"></a>
 
 - Make a precise calculation of the planned project
     - consider using a spreadsheet program 
@@ -169,7 +169,7 @@ Carefully plan the different steps of the project implementation, keeping in min
     - apply for funding ( e.g HfK student project funding, HEC Sponsorship, HfK Freundeskreis )
 
 
-# Known Problems ;)
+# Known Problems ;)<a id="problems"></a>
 
 - Sometimes a project is not that clear yet. 
 - Sometimes we don’t know where a project is leading to. Do not make it a problem but a *feature*. but also make sure to communicate your interests and reflect upon why you want to embark on such exploration. Trust the process!
