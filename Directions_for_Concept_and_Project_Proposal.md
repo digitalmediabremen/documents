@@ -16,7 +16,7 @@ Form
 - [How do you Present/Perform the Proposal?](#presentation)
 - [Make it Look Nice and Convincing!](#look)
 
-Bonus
+Extra Components
 - [How does the Audience/Visitor/Recipient/User experience your Installations/Software/Artifacts/Performance/Product?](#perception)
 - [Schedule/Timetable](#schedule)
 - [Budget](#budget)
@@ -125,7 +125,7 @@ Give us an idea how far the project development is already:
 - use another medium to communicate your point!
 - KIS ( keep it simple )
 
-# Bonus
+# Extra Components
 
 Additional topics or questions to consider while planning or sketching a project ( some of these *ingredients* become especially important when a project exceeds a certain level of complexity ):
 
