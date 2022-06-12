@@ -4,9 +4,13 @@ This is a very rough guide for producing a *project proposal* ( or concept ). A 
 
 Note: A *project proposal* ( e.g in the form of a presentation, PDF document, or video ) is an essential tool to communicate and discuss a project’s concept and its potential implementation. In professional contexts it is a medium that is crucial for example for applying for project funding in commercial or in the public cultural sector as well as applications for grants, calls for stipends, pitches but also for more novel formats like crowdfunding projects.
 
+*(A Project Proposal is in constant flux. It develops and becomes more precise while the project develops. Ideally, in the end, it becomes the documentation of the project.)*
+
 ## Description of the Concept / Idea 
 
 > *Concepts are not in your head: they are things, peoples, zones, regions, thresholds, gradients, temperatures, speeds, etc.* { Gilles Deleuze, Desert islands and Other Texts 1953-1974, p 312 } 
+
+
 
 - What was the (initial) *impulse* for the project?
 - What is your *motivation*?
