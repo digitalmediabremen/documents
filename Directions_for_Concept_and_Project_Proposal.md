@@ -59,15 +59,21 @@ Visualizations *can* be a central part of a concept/project proposal. It is espe
 
 for further information and inspiration see [Directions_for_Visualizing_Concepts](http://dm-hb.de/dmdfvc)
 
-## Implementation
+## Implementation / Production
+
+The implementation/production (designing, experimenting, engineering, building, installing, filming, ...)  will finally take most of the projects time. It is the central part of every project. Try to be as detailed as possible about it. In professional contexts (commissions or call for stipends) this part is often looked at with special attention.
 
 - How will it be realized?
 - What technologies/materials are you using?
 - Is there something unique about the used tech?
 - How are you using technology?
+- What workshops do you need?
+- What machines do you need for production?
 - Is it a hack or maybe a re-appropriation?
 
 ## Current State of the Project
+
+Give us an idea how far the project development is already:
 
 - Show what you have discovered!
 - Documentation of experiments and prototypes.
