@@ -4,7 +4,8 @@ This is a very rough guide for producing a *project proposal* ( or concept ). A 
 
 Note: A *project proposal* ( e.g in the form of a presentation, PDF document, or video ) is an essential tool to communicate and discuss a project’s concept and its potential implementation. In professional contexts it is a medium that is crucial for example for applying for project funding in commercial or in the public cultural sector as well as applications for grants, calls for stipends, pitches but also for more novel formats like crowdfunding projects.
 
-*(A Project Proposal is in constant flux. It develops and becomes more precise while the project develops. Ideally, in the end, it becomes the documentation of the project.)*
+*A Project Proposal is in constant flux. It develops and becomes more precise while the project develops. Designing it flexibly allows you to use it for different occasions (e.g. funding applications, class presentations, individual critique, etc.). Ideally, in the end, it becomes the [documentation of the project](https://github.com/digitalmediabremen/documents/blob/master/Directions_for_Project_Documentations.md).*
+
 
 ## Description of the Concept / Idea 
 
