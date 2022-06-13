@@ -80,15 +80,15 @@ for further information and inspiration see [Directions_for_Visualizing_Concepts
 
 ## Implementation / Production<a id="implementation"></a>
 
-The implementation/production (designing, experimenting, engineering, building, installing, filming, ...)  will finally take most of the projects time. It is the central part of every project. Try to be as detailed as possible about it. In professional contexts (commissions or call for stipends) this part is often looked at with special attention.
+The implementation/production (designing, experimenting, engineering, building, installing, filming, ...)  will finally take most of the projects time. It is the central part of every project. Try to be as detailed as possible about it. In professional contexts (commissions or call for stipends) this part is often looked at with special attention. (Is it realistic and well thought out?)
 
 - How will it be realized?
 - What technologies/materials are you using?
-- What fabrication methods are you using?
+- What *fabrication* technology/methods are you using?
+- What *workshops* and *tools* do you need?
 - What technology exists already? What do you have to design/buid yourself?
 - Is there something unique about the used tech?
 - How are you using technology?
-- What workshops do you need?
 - What machines do you need for production?
 - Is it a hack or maybe a re-appropriation?
 
