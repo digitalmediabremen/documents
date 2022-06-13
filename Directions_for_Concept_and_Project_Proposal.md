@@ -38,7 +38,7 @@ A project description's preferred medium is *text*. Text is probably the most pr
 - What is the *problem* and *who cares* about it?
 - What is the *context* of the project? What makes it *important*? Why is it *necessary*?
 - How does this project *relate* to previous projects or interests? ( maybe it is connected to research that reaches back to some of your previous projects or to projects of others )
-- Name *references* and existing work from Design, Art, Media Theory, Science, Philosophy etc. Be *knowledgeable* about the filed where you are working in. *(This might not be relevant in professional proposals but in the context of University projects very helpful. Be)*
+- Name *references* and existing work from Design, Art, Media Theory, Science, Philosophy etc. Be *knowledgeable* about the field where you are working in. *(This might not be relevant in professional proposals but in the context of University projects very helpful.)*
 - What form/media does the project have/use? e.g
     - installation
     - digital object
