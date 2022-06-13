@@ -116,6 +116,7 @@ Give us an idea how far the project development is already:
 - default: Well prepared slide-based presentation presented on a projector
 - but also take a minute to consider alternative forms of presentations? e.g:
     - performance
+    - lecture performance (lecture that includes performantive elements)
     - recorded video
     - text reading
 
