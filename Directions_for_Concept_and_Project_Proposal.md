@@ -6,22 +6,22 @@ A *project proposal* ( e.g in the form of a presentation, PDF document, or video
 
 Note: *A Project Proposal is in constant flux. It develops and becomes more precise while the project develops. Actually, it will help you to understand your project much better. Designing it flexibly allows you to use it for different occasions (e.g. funding applications, class presentations, individual critique, etc.). Ideally, in the end, it becomes the [documentation of the project](https://github.com/digitalmediabremen/documents/blob/master/Directions_for_Project_Documentations.md).*
 
-Ingredients
+*Ingredients*
 - [Description of the Concept / Idea](#concept)
 - [Sketch and Visualize](#visualize)
 - [Implementation / Production](#implementation)
 - [Current State of the Project](#state)
 
-Form
+*Form*
 - [How do you Present/Perform the Proposal?](#presentation)
 - [Make it Look Nice and Convincing!](#look)
 
-Extra Ingredients
+*Additional Ingredients (toppings)*
 - [How does the Audience/Visitor/Recipient/User experience your Installations/Software/Artifacts/Performance/Product?](#perception)
 - [Schedule/Timetable](#schedule)
 - [Budget](#budget)
 
-[Known Problems ;)](#problems)
+*[Known Problems ;)](#problems)*
 
 # Components
 
@@ -129,7 +129,7 @@ Give us an idea how far the project development is already:
 - use another medium to communicate your point!
 - KIS ( keep it simple )
 
-# Extra Components
+# Additional Ingredients
 
 Additional topics or questions to consider while planning or sketching a project ( some of these *ingredients* become especially important when a project exceeds a certain level of complexity ):
 
