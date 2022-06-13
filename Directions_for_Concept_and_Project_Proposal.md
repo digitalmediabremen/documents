@@ -31,7 +31,7 @@ Extra Ingredients
 
 A project description's preferred medium is *text*. Text is probably the most precise medium to express the core idea of your endeavor and allows you to answer the essential questions relating to the project. This text, which starts in a preliminary form, eventually becomes the accompanying text for the final documentation on your website/portfolio. Try to answer the following, for your specific project relevant questions:
 
-- How does it *work*? How is the *narrative*? Explain it's *function*.
+- How is the *concept*? How does it *work*? How is the *narrative*? Descripe it's *concept" and *function*.
 - What was the (initial) *impulse* for the project?
 - What is your *motivation*?
 - Is there a *questions* that the projects tries to answer?
