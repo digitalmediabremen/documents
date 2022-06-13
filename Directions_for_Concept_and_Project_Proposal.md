@@ -169,6 +169,7 @@ Carefully plan the different steps of the project implementation, keeping in min
     - make sure to watch delivery and lead times ( "oftentimes you can save money by ordering early" )
 - Assess whether the project fits in your budget? if you foresee budget problems, consider e.g the following:
     - apply for funding ( e.g HfK student project funding, HEC Sponsorship, HfK Freundeskreis )
+    - sponsoring: ask companties that produce your desired techonlogy/material/product to support your project with the donation of the specific material.
     - ask your professor to buy some components for general use afterwards
     - ask your grandma for some cash! ;) ( @RB "really?!? this is how you did it?" @DPP "no, I didn't. but its an option" )
 
