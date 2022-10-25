@@ -1,5 +1,7 @@
 # Things You Should Know as An Interaction Design / New Media Art Student
 
+[![Florian Born: Modulares Interface](https://digitalmedia-bremen.de/wp-content/uploads/2015/11/fb-modulares_interface-01.jpg)](https://digitalmedia-bremen.de/project/modulares-interface/)
+
 *Our field* is the term that we use in this document to describe *what we are doing* here in our program under the umbrella of *design* or *mediadesign*. This is not perfect but tries to reflect the fact that *what we are doing here* is very open and cloud-like ( i.e with fuzzy boundaries ) and constantly evolving.
 
 The following collections are an attempt to frame the field that we are working in.
@@ -148,17 +150,17 @@ Our field is comprised of or influenced by many different different disciplines.
 - [Fritzing](https://fritzing.org/)
 - [KiCad](https://www.kicad.org/)
 - [TouchDesigner](https://derivative.ca/)
-- VVVV
-- Unity
-- Unreal Engine
-- MAX
-- Pure Data ( PD )
+- [VVVV](https://vvvv.org/)
+- [Unity](https://unity.com/)
+- [Unreal Engine](https://www.unrealengine.com/)
+- [MAX](https://cycling74.com/products/max)
+- [Pure Data](https://puredata.info/) ( PD )
 - [Cables.gl](https://cables.gl/)
-- Fusion360
+- [Fusion360](https://www.autodesk.com/products/fusion-360)
 - [Rhino 3D](https://www.rhino3d.com/)
-- OpenCAD
-- Blender
-- Figma
+- [FreeCAD](https://www.freecadweb.org/)
+- [Blender](https://www.blender.org/)
+- [Figma](https://www.figma.com/)
 
 ---
 
