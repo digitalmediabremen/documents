@@ -119,10 +119,14 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - [Make Magazine](http://makezine.com)
 - [Page](http://page-online.de)
 - [Frame](https://www.frameweb.com)
-- [Plot](http://www.plotmag.com) *went dark 2020*
-- [designreport](https://www.designreport.de) *went dark 2019*
+- ~~[Plot](http://www.plotmag.com)~~ *went dark 2020*
+- ~~[designreport](https://www.designreport.de)~~ *went dark 2019*
 
 ## Digital Platforms
+
+@TODO(add instagram, twitter, reddit, etcetera here)
+
+### Blogs
 
 - [Creative Applications](http://www.creativeapplications.net/) ( Filip Visnjic )
 - [We Make Money Not Art](http://we-make-money-not-art.com) ( Régine Debatty )
