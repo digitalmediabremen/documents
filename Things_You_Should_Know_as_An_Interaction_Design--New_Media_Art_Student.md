@@ -100,15 +100,15 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - Anthony Dunne and Fiona Raby: **Design Noir: The Secret Life of Electronic Objects**, Birkhäuser, 2001
 - Kenji Kawakami: **101 Unuseless Japanese Inventions: The Art of Chindogu**, W. W. Norton & Company, 1995
 - Bruce Sterling: **Shaping Things**, MIT Press, 2005 
-- Robert Klanten: **‌Data Flow: Visualising Information in Graphic Design** Gestalten, 2008
+- Robert Klanten: **‌Data Flow: Visualising Information in Graphic Design**, Gestalten Verlag, 2008
 - Manuel Lima: **Visual Complexity: Mapping Patterns of Information**
 - Robert Klanten: **A Touch of Code: Interactive Installations and Experiences**
-- Mary Flanagan: **Critical PLay: Radical Game Design**
+- Mary Flanagan: **Critical Play: Radical Game Design**, MIT Press, 2009
 - Hartmut Bohnacker & Benedikt Gross & Julia Laub & Claudius Lazzeroni: **Generative Design: Visualize, Program, and Create with Processing**
-- Gordan Savicic & Selena Savic: **‌Unpleasant Design**, 2016
+- Gordan Savicic & Selena Savic: **‌Unpleasant Design**, G.L.O.R.I.A, 2016
 - Bill Moggridge: **Designing Interactions**, MIT Press, 2007
 - Donald Norman: **The Design of Everyday Things**, MIT Press, 2001
-- Richard Sennett: **The Craftsman**, 2008
+- Richard Sennett: **The Craftsman**, Yale University Press, 2008
 
 ## Magazines
 
