@@ -172,6 +172,10 @@ despite all the above methods, techniques or tricks probably the most important 
 
 [John Cleese](https://en.wikipedia.org/wiki/John_Cleese) shares some thoughts on the topic at [John Cleese Keynote Speech at Creative Arts Design School](https://vimeo.com/209489484) where he talks about creativity and how it is affected ( or limited ) by the way we think we *should* work.
 
+## References
+
+- [Liberating Structures](https://www.liberatingstructures.com/) "Liberating Structures introduce tiny shifts in the way we meet, plan, decide and relate to one another.  They put the innovative and faciliative power once reserved for experts only in hands of everyone."
+
 ---
 
 This document is available as a public document at [Directions for Developing Ideas for a Design/Art Project](http://dm-hb.de/dfdifadap).
