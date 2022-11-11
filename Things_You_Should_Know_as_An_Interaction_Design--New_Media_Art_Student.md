@@ -135,6 +135,7 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - [Co.DESIGN](http://www.fastcodesign.com)
 - [Frame Magazine Blog](http://www.frame-digital.com/)
 - [Designboom](http://www.designboom.com/)
+- ~~[Dataisnature](https://www.dataisnature.com/)~~ *last update 2018*
 - ~~[Prosthetic Knowledge](http://prostheticknowledge.tumblr.com)~~ *last update 2020*
 - ~~[Infosthetics](http://infosthetics.com)~~ *went dark 2014* 
 - ~~[Creators](https://creators.vice.com)~~ *last update 2017*
