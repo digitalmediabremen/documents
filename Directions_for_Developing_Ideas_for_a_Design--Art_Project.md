@@ -44,7 +44,7 @@ there is also a related wikipedia category [Creativity Techniques](https://en.wi
 
 ### observing situations + people
 
-look at everyday situations. important and insignificant. small and big. describe and analyze such situations. see what *you* would want to change about these situations but also contemplate what others might want, need, or desire.
+*situations* usually refer to the everyday, the banal and the mondaine. look at everyday situations. important and insignificant. small and big. describe and analyze such situations. see what *you* would want to change about these situations or who you would want to comment or extrapolate such situations but also contemplate what others might want, need, or desire. you might look at a situation as a problem you want to solve, as a poetic coincidence, as something generalizable, as a constellation, etcetra.
 
 similarly shift the focus away from situation and assume a *human-centered* perspective by observing people. how do they do things? what do they care about? become acquainted with your *audience* ( recipient, customer, client, user, … ). it might be worth considering to invest some extra effort, planning, and preparing to be able to better observe people. interviews in all shapes and forms are traditionally a powerful tool to learn and understand. however being a designer it is also worth considering to deliberately design for this endeavor. find or design other or new ways to learn about people ( see e.g *cultural probes* ).
 
