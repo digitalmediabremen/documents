@@ -39,7 +39,7 @@ obviously, the methods above are just an incomplete collection. each method can 
 
 ---
 
-This document is available as a public document at [Documenting Process](http://dm-hb.de/dmdp).
+This document is available as a public document at [Directions for Process Documentations](http://dm-hb.de/dmdp).
 
 ---
 
