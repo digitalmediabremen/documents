@@ -1,6 +1,6 @@
 # Directions for Project Documentations
 
-Very generally speaking a documentation consists of a text describing the work and different media showing appearance, functionality, process, interactions, etcetera.
+Very generally speaking a documentation consists of a text describing the work and different kinds of media showing appearance, functionality, process, interactions, anecdotes, etcetera.
 
 The *documentation* is an essential part of every project or work therefore it needs to be taken seriously. Oftentimes a documentation is the only thing that will remain of a project after some time. It is also vital to understand that a documentation in itself is a *designed work* and can be strategically planned and crafted. Certain aspects of a work can be *amplified* or highlighted while others can be pushed into the background. Every documentation has a bias, wantingly or unwantingly. Understanding this helps looking more critically at other people’s documentations, but should first and foremost help you realizing the potential of your own project documentation.
 
