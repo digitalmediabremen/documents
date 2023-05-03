@@ -13,7 +13,7 @@ This is a generalized structure of a typical design/artistic project. Such a pro
 5. documentation
 6. publication + dissemination
 
-Note, that although the stages below are usually executed in the order presented, it is often useful to meander between stages as required.
+Note, that although the stages below are usually executed in the order presented, it is often useful to meander between stages as required. Especially the *concept* and *realization* stages are often executed in a tight iteration loop. the plans conveived are more often then not challenged by what is feasable or possible or desireable and need to be adjusted along the way. 
 
 ### Research + Idea Finding
 
@@ -55,13 +55,19 @@ When done with the *concept* stage you should be able to present and communicate
 - What are the desired outcomes and in which context will they *live*?
 - What steps are necessary to get it done?
 
+> "We plan, God laughs.", old yiddish proverb
+
+the concept may also involve writing up a production schedule and a financial plan.
+
 ### Realization
 
 Realizing a project is about getting down to the nitty gritty. Realizing a project is about negotiating between ideas, expectations and reality. It is important to understand that next to actually working on a design, software or hardware, realizing a project also means communicating with people; in some extreme cases this is the *only* thing you actually do in a project. Working with technology almost always involves working with people who know how to do very specific things you are not capable of ( e.g programmers, craftsmen+women, production facilities ).
 
 More often than not it is required to go back to the *concept* stage and reorganize your thoughts and adjust your idea to the new ermerging, given facts. In your project these two stages should be the most permeable and iterative ones. When people talk of an iterative design process, they usually refer to the back and forth between *concept* and *realization*.
 
-On a side note, sometimes you are well advised to not even separate the *concept* and *realization* stage and subscribe to a strategy known as *bottom-up* process, by evolving your concept as you go. Although this approach has been successfully applied by e.g nature, it bears the risk of not getting anywhere and ending up with nothing. The upside however is to potentially create something beyond what you could have imagined beforehand.
+It is very important to constantly reflect the intermediate steps in the *realisation* stage with a *healthy* critical eye and adapt the concept if need be. It is quite common and nothing shameful at all. Quite the opposite, it is good practice to even *post-rationalize* steps you took intuitively i.e trust you intuition and try to understand it later. Verbalizing such *findings* in e.g a process documentation can be quite helpful and productive ( see [Directions for Process Documentations](http://dm-hb.de/dmdp) for further details ).
+
+On a side note, sometimes you are well advised to not even separate the *concept* and *realization* stage. in its extremest form this approach is somethime refered to as a strategy called *bottom-up* process or in other words *evolving your concept as you go*. Although this approach has been successfully applied by e.g nature, it bears the risk of not getting anywhere and ending up with nothing. The upside however is to potentially create something beyond what you could have imagined beforehand.
 
 When done with the *realization* stage you are not done with your project; a common mistake. 
 

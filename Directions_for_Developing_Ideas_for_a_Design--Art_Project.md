@@ -6,7 +6,7 @@
 
 generating good ideas is the howly grail in art + design. many myths are shrouding the process of how people come to have good ideas ( see e.g the concept/myth of the *genius* ). there are millions of methods, books, seminars, and writings on the topic. still there is no unifed truth regarding the applicability and quality of such methods; some are better than others while some just work for some people better than for others.
 
-while there is a significant amount of people arguing that the whole idea of applying methods to finding ideas is flawed or even dangerous ( especially for artists and designers ). thus it is of grave importance that one experiments with and identifies the methods that work best for oneself. experimenting with such methods and reflecting their effect on oneself is first and foremost a way of understand oneself better ( similar to reading a horoscope which is also much more about understanding oneself than predicting the future ).
+while there is a significant amount of people arguing that the whole idea of applying methods to finding ideas is flawed or even dangerous ( especially for artists and designers ) to begin with. thus it is of grave importance that one experiments with and identifies the methods that work best for oneself. experimenting with such methods and reflecting their effects is first and foremost a way of understand oneself better ( similar to reading a horoscope which is also much more about understanding oneself than predicting the future ).
 
 from my own experience i can say that there is no single method which i found superior. still i cultivated an interest in hearing, learning and subjectively evaluating such methods; but always with a critical mindset, a great deal of suspicion and most importantly always on my *own terms*.
 
@@ -66,16 +66,19 @@ combine two or more ideas, concepts, technologies, material, etcetera that were 
 
 ### Wandering Thoughts + Low-Attention + Misunderstanding
 
-- @todo(peter s example of looking at amounts of photographs of other people’s projects and misinterpreting them)
-- @todo(dennis s example of reading complicated literature)
+- looking at huge numbers of documentations of other designer’s projects and misinterpreting or misunderstanding them accidentally or intentionally ( peter buczkowki’s example )
+- reading complicated literature ( e.g philosphy ) to get the mind to wonder ( dennis p paul’s example )
 
 ### Serendipity
 
-@todo ( creating *productive situations* and then relying on random discoveries )
+- facilitating coincidence
+- creating *productive situations* that may lead to random discoveries
 
 ### Arbitrary Constraints
 
-take an exisiting concept or idea and ( almost ) arbitrarily constraint certain parameters of that concept or idea. in traditional graphic design the notion of *only using one font, one fontsize, and two colors* to create a complex modular design is quite a common starting point.
+take an exisiting concept or idea and ( almost ) arbitrarily constraint certain parameters of that concept or idea. the interesting part is to identify such parameters ( see also *Variations* ).
+
+in traditional graphic design the notion of *only using one font, one fontsize, and two colors* to create a complex modular design is quite a common starting point.
 
 ### Rethink the Assignment
 
@@ -85,7 +88,7 @@ if there is an assignment. look at it analyze it, take it apart and put it back 
 
 the first idea. think of the normal. speak it out, sketch it out. then think beyond that.
 
-### rubberduck
+### Rubberduck
 
 talk to people, things or rubberducks. it is not so much about the reactions but about formulating thoughts while speaking.
 
