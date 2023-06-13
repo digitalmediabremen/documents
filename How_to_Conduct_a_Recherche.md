@@ -1,5 +1,7 @@
 # How to Conduct a Recherche?
 
+> "Research is like Swimming", Ioana Vreme Moser at [Salon Digital 40](https://salon-digital.com/salons/salon-40)
+
 the french word *recherche* denotes the process of browsing through loads of information with a more or less specific question or interest in mind. in english this process is often referred to as *research*. however, this usage can easily be confused with *scientific* research which might result in an unproductive fuzziness. therefore we denote the process of searching, investigation, inquiry, browsing, float, meandering, search and occasionally finding as *recherche*.
 
 note that a *recherche* can and should be conducted with different levels of precision or fuzziness. in the very beginning of a project it is very helpful to just float around, vaguely glance at things, flip through magazins, or serendipitously follow leads. at a later point in a project a *recherche* might be much more goal oriented, for example when trying to find out about related or similar projects or ideas. in other words sometimes a *recherche* should have a clear goal and sometimes it should not.
