@@ -12,3 +12,5 @@
     - demonstrators
 - in an *intermediate presentation* try to give a sense of *what your work will be like in the end*
 - while slide-based ( i.e powerpoint/keynote ) presentations are a good default and leave a lot of room for creativity, they are by far not the only way to present works. designing a presentation is a *design* task in itself!
+
+see [Presenting-Works(wiki)](https://github.com/digitalmediabremen/presenting-works/wiki) more unsorted thoughts on presentations.
