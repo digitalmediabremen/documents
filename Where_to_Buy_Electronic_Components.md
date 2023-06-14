@@ -24,4 +24,4 @@ and do not forget to check the [Physical Computing Library](http://pcl.digitalme
 
 ---
 
-This document is available as a public document at [Directions for Visualizing Concepts](http://dm-hb.de/dmwtbec).
+This document is available as a public document at [Where to Buy Electronic Components](http://dm-hb.de/dmwtbec).
