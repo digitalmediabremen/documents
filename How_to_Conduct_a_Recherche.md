@@ -30,7 +30,7 @@ although a traditional *recherche* usually starts in either a library or on goog
 - physical libraries + archives ( e.g books, magazins, catalogs etcetera )
 - conversations with different kinds of people ( e.g interviews )
 
-a good starting point is for example the [Compendium Digitale](http://dm-hb.de/compendium), a collection of probably useful things.
+a good starting point is for example the page [Useful Information for Digital Media Students](https://blogs.digitalmedia-bremen.de/useful-information-for-digital-media-students/), a collection of probably useful things.
 
 ## How to Organize, Archive and Present Findings
 
