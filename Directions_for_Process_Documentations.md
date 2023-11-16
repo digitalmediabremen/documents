@@ -37,18 +37,6 @@ and lastly a *process documentation* can become the work itself. whether planned
 
 obviously, the methods above are just an incomplete collection. each method can and should be adapted, modified or improved according to one’s liking or requirement. the collection is merely meant to serve as a source of inspiration and a starting point. this document aims to inspire and contemplate the role and use of *process documentations*.
 
----
-
-This document is available as a public document at [Directions for Process Documentations](http://dm-hb.de/dmdp).
-
----
-
-## todo
-
-- @todo(add references)
-- @todo(process *shaping* tools e.g GANT )
-- @todo(quantifying process e.g measuring time, gauging resources )
-
 ### references
 
 list of works where the *process* plays a notable role
@@ -59,3 +47,17 @@ list of works where the *process* plays a notable role
 - @maybe tape sculptures by [Numen / For use](http://numen.eu/installations/tape/des-moines/)
 - Rafael Lozano-Hemmer has put together an article which might serve as an inspiration [Best practices for conservation of media art from an artist’s perspective](http://dm-hb.de/8o)
 - [Lucy&Bart](https://www.lucymcrae.net/lucyandbart)
+
+---
+
+This document is available as a public document at [Directions for Process Documentations](http://dm-hb.de/dmdp).
+
+<!--
+
+## todo
+
+- @todo(add references)
+- @todo(process *shaping* tools e.g GANT )
+- @todo(quantifying process e.g measuring time, gauging resources )
+
+-->
