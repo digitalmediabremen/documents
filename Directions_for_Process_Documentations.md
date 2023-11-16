@@ -37,7 +37,7 @@ and lastly a *process documentation* can become the work itself. whether planned
 
 obviously, the methods above are just an incomplete collection. each method can and should be adapted, modified or improved according to one’s liking or requirement. the collection is merely meant to serve as a source of inspiration and a starting point. this document aims to inspire and contemplate the role and use of *process documentations*.
 
-### references
+### References
 
 list of works where the *process* plays a notable role
 
