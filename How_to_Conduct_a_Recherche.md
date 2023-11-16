@@ -25,7 +25,7 @@ the most obvious thing to *recherche* is other artistic and design works. howeve
 although a traditional *recherche* usually starts in either a library or on google, it is well worth noting that this cannot be the sole resources. in a sense conducting a *recherche* is a process which is also inspired and driven by a certain kind of creativitiy and is a skill to be developed.
 
 - plain internet searches ( i.e via search engines and keywords )
-- user-generated information hubs ( e.g blogs, instagram, crowd funding platforms etcetera )
+- user-generated information hubs ( e.g LLM, blogs, instagram, crowd funding platforms etcetera )
 - public information hubs ( e.g wikipedia, patent databases, etcetera )
 - physical libraries + archives ( e.g books, magazins, catalogs etcetera )
 - conversations with different kinds of people ( e.g interviews )
