@@ -24,8 +24,6 @@ there are very nice sketchbook or notebooks out there for purchase.
 
 however, if you are short on budget or just like the volatile nature of a stack of sheets of paper here is a tutorial on how to make the infamous *HfK Notebook*:
 
-![HfK-Notebook-Tutorial](./assets/HfK-Notebook-Tutorial.mov)
-
 [Video: HfK-Notebook-Tutorial](./assets/HfK-Notebook-Tutorial.mov)
 
 <video src="https://github.com/digitalmediabremen/documents/raw/master/assets/HfK-Notebook-Tutorial.mov" controls="controls" style="max-width: 730px;">HfK-Notebook-Tutorial</video>
