@@ -180,8 +180,8 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 
 ### World
 
+- [CW&T](https://cwandt.com)
 - [Kimchi and Chips](https://www.kimchiandchips.com/)
-- [Copenhagen Institute of Interaction Design](http://ciid.dk) ( more institute than studio )
 
 ## Research Labs
 
@@ -191,6 +191,7 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - [Volkswagen Electronics Research Laboratory](https://vwiecc.com/)
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html)
 - [Google Research](https://research.google/)
+- [Copenhagen Institute of Interaction Design](http://ciid.dk) ( more institute than studio or research lab )
 
 ## Festivals & Conferences
 
@@ -199,13 +200,13 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - [Push Conference](https://push-conference.com/)
 - [Transmediale](https://transmediale.de/)
 - [EMAF](https://www.emaf.de/)
-
+- [lab.30](https://www.lab30.de/)
+  
 ## Tools + Applications
 
 - [Processing.org](https://processing.org/) ( incl [P5.js](https://p5js.org/) )
 - [Arduino.cc](https://www.arduino.cc/)
 - [openFrameworks](https://openframeworks.cc/)
-- [Fritzing](https://fritzing.org/)
 - [KiCad](https://www.kicad.org/)
 - [TouchDesigner](https://derivative.ca/)
 - [VVVV](https://vvvv.org/)
@@ -220,9 +221,9 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - [Blender](https://www.blender.org/)
 - [Figma](https://www.figma.com/)
 
-## An Economic Perspective on Interaction Design
+## Further Information
 
-Dennis P Paul has released a list of ways of how one can earn money as an Interaction Designer: [An Economic Perspective on Interaction Design](https://github.com/dennisppaul/an-economic-perspective-on-interaction-design)
+Dennis P Paul has released a list of ways of how one can earn money as an Interaction Designer [An Economic Perspective on Interaction Design](https://github.com/dennisppaul/an-economic-perspective-on-interaction-design), as well as a list that is very similar to this one [Things You Should Read/Watch/Know as An Interaction Design Student](http://interaktion-und-raum.dennisppaul.de/things-you-should-read-watch-know-as-an-interaction-design-student.html).
 
 ---
 
