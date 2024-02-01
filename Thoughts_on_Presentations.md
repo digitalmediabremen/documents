@@ -1,4 +1,4 @@
-# DM documents / thoughts on *presentations*
+# DM documents / Thoughts on *Presentations*
 
 @draft
 
