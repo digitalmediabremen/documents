@@ -2,9 +2,7 @@
 
 @draft
 
-- use a combination of words and sketches when communicating with others
-
-as designer/artist it is *very* helpful to add techniques to describe, discuss and develop ideas. one of the most common one apart from just using word or language is for sure the sketch.
+as designer/artist it is *very* helpful to add techniques to describe, discuss and develop ideas. one of the most common one apart from just using word or language is for sure the *sketch*.
 
 however, often underestimated is the relevance of using sketching to complement conversation, discussions and idea finding processes. in the this context sketching is less of a final *product* but more a *process* tool.
 
