@@ -26,9 +26,9 @@ however, if you are short on budget or just like the volatile nature of a stack 
 
 ![HfK-Notebook-Tutorial](./assets/HfK-Notebook-Tutorial.mov)
 
-<video src="./assets/HfK-Notebook-Tutorial.mov" controls="controls" style="max-width: 730px;">HfK-Notebook-Tutorial</video>
+[Video: HfK-Notebook-Tutorial](./assets/HfK-Notebook-Tutorial.mov)
 
-[HfK-Notebook-Tutorial](./assets/HfK-Notebook-Tutorial.mov)
+<video src="https://github.com/digitalmediabremen/documents/raw/master/assets/HfK-Notebook-Tutorial.mov" controls="controls" style="max-width: 730px;">HfK-Notebook-Tutorial</video>
 
 regardless of what form a sketchbook takes, the bottom line is to always keep one you.
 
