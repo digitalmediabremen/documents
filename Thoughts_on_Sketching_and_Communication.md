@@ -4,14 +4,30 @@
 
 - use a combination of words and sketches when communicating with others
 
-### develop a *sketching vocabulary*
+as designer/artist it is *very* helpful to add techniques to describe, discuss and develop ideas. one of the most common one apart from just using word or language is for sure the sketch.
 
-![[tosac--sketching-vocabulary.jpeg]]
+however, often underestimated is the relevance of using sketching to complement conversation, discussions and idea finding processes. in the this context sketching is less of a final *product* but more a *process* tool.
 
-a few elements from Dennis P Paul’s sketching vocabulary
+### Develop a *Sketching Vocabulary*
+
+sketch is not ( necessarily ) *artistic* drawing or proper illustration or any other such artistic/design activity. it can be thought of more as a set of visual idioms  
+
+![sketching-vocabulary](./assets/tosac--sketching-vocabulary.jpeg)
+
+this is an example of a few elements from Dennis P Paul’s sketching vocabulary.
 
 ### keep a sketchbook on you at all times
 
-![[HfK-Notebook-Tutorial.mov]]
+there are very nice sketchbook or notebooks out there for purchase. 
 
-A tutorial on how to make the infamous *HfK Notebook* )
+![notebooks](./assets/tosac--notebooks.jpeg)
+
+however, if you are short on budget or just like the volatile nature of a stack of sheets of paper here is a tutorial on how to make the infamous *HfK Notebook*:
+
+![HfK-Notebook-Tutorial](./assets/HfK-Notebook-Tutorial.mov)
+
+regardless of what form a sketchbook takes, the bottom line is to always keep one you.
+
+furthermore develop a dedicated style for your writing utilities.
+
+![pens](./assets/tosac--pens.jpeg)
