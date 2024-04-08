@@ -3,7 +3,7 @@
 a collection of documents on topics related to interaction design + new media art in general and the [Digital Media Program](https://digitalmedia-bremen.de) in specific.
 
 
-- [[Directions_and_Assistance_for_Lecturers]]
+- [Directions_and_Assistance_for_Lecturers](Directions_and_Assistance_for_Lecturers.md)
 - Directions and Assistance for Lecturers
 - Directions for Concept and Project Proposal
 - Directions for Developing a Design/Artistic Project
