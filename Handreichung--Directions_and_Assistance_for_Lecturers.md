@@ -1,4 +1,4 @@
-# Directions and Assistance for Lecturers
+# Handreichung / Directions and Assistance for Lecturers
 
 - alle technisch-administrativen fragen und probleme mit dem *Artist System* kann man gut mit dem [Campus-Office KuD](campus-office-kud@hfk-bremen.de) klären.
 
