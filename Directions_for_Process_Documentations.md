@@ -24,7 +24,7 @@ and lastly a *process documentation* can become the work itself. whether planned
 
 ## Methods for Documenting the Process
 
-- **developer diary** :: also *dev log* known from game-dev, often very technical or feature oriented ( personal and private )
+- **developer diary** :: also *dev log*, known from game-dev, often very technical or feature oriented ( personal and private )
 - **screenshots** :: daily routine, take a screenshot of current status
 - **local versions** :: make a habit of saving versions in files every now and then ( i.e `model-design-102.obj`, `model-design-103.obj`, … )
 - **commit history** :: use a VCS like github, dump commit history
