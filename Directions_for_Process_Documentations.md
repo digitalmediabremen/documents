@@ -39,7 +39,7 @@ obviously, the methods above are just an incomplete collection. each method can 
 
 ### References
 
-list of works where the *process* plays a notable role
+list of works where the *process* plays a notable role or is the work itself:
 
 - [Sammy Jobbins Wells: skin](http://digitalmedia-bremen.de/project/skin/)
 - [Thomas Thwaites: The Toaster Project](https://www.thomasthwaites.com/the-toaster-project/)
