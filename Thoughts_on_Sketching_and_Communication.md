@@ -1,4 +1,4 @@
-# DM documents / Thoughts_on_Sketching_and_Communication
+# Thoughts on Sketching and Communication
 
 @draft
 
