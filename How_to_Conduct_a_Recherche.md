@@ -26,15 +26,15 @@ although a traditional *recherche* usually starts in either a library or on goog
 
 - plain internet searches ( i.e via search engines and keywords )
 - user-generated information hubs ( e.g LLM, blogs, instagram, crowd funding platforms etcetera )
-- public information hubs ( e.g wikipedia, patent databases, etcetera )
-- physical libraries + archives ( e.g books, magazins, catalogs etcetera )
+- public information hubs ( e.g wikipedia, patent databases, research databases[^1], artistic research databases[^2], etcetera )
+- physical libraries[^3] + archives ( e.g books, magazins, catalogs etcetera )
 - conversations with different kinds of people ( e.g interviews )
 
-a good starting point is for example the page [Useful Information for Digital Media Students](https://blogs.digitalmedia-bremen.de/useful-information-for-digital-media-students/), a collection of probably useful things.
+a good starting point is for example the page [Things You Should Know as An Interaction Design / New Media Art Student](http://dm-hb.de/dmtyskaaidnmas) or [Useful Information for Digital Media Students](https://blogs.digitalmedia-bremen.de/useful-information-for-digital-media-students/), a collection of probably useful things.
 
 ## How to Organize, Archive and Present Findings
 
-- in dedicated tools ( e.g miro, google doc, pinterest, etcetera )
+- in dedicated tools ( e.g miro, google doc, pinterest, padlet, etcetera )
 - on a blog
 - in a custom-made format ( e.g markdown-based notation system )
 - in a moodboard or collage
@@ -45,7 +45,15 @@ in addition to such infrastructures ( be they physical or virtual ) certain meth
 
 the bottom line here is that organizing, archiving and presenting, once again is highly individual and creative endeavor. as designer and/or artist it is vital to explore such concepts and develop one’s *own ways*.
 
-some artist have even made a career of finding idiosyncratic forms for their research ( i.e [Mark Lombardi](https://en.wikipedia.org/wiki/Mark_Lombardi) )
+some artist have even made a career of finding idiosyncratic forms for their research ( e.g [Mark Lombardi](https://en.wikipedia.org/wiki/Mark_Lombardi) ).
+
+while other people voice concerns about the idea in general e.g  [Claire Bishop: Information Overload](https://www.artforum.com/features/claire-bishop-on-the-superabundance-of-research-based-art-252571/) on the superabundance of research-based art.
+
+---
+
+[^1]: e.g the [Association for Computing Machinery (ACM) Digital Library](https://dl.acm.org/) which is accessible as an academic when in an academic network like eduroam. "ACM, the world's largest educational and scientific computing society, delivers resources that advance computing as a science and a profession."
+[^2]: e.g [Research Catalog](https://www.researchcatalogue.net) 
+[^3]: e.g the HfK Library in Speicher XI on the top floor. it can also be browsed online as one of many bremen libraries [Staats- und Universitätsbibliothek Bremen](https://www.suub.uni-bremen.de) but should first and foremost be visited in person.
 
 ---
 
