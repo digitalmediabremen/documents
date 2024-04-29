@@ -1,8 +1,8 @@
 # Notes on Master Project Exhibition
 
-## egocentric versus community
+- make it a rule that each student consults one of the supervisors 2–3 weeks before the opening to discuss the exhibition setup
 
-the master 
+## egocentric versus community
 
 - care about your own work and make sure to get all the help and advice you can
 - … but also take care of the others. you are a group and a community
