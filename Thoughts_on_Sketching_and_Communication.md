@@ -1,6 +1,6 @@
 # Thoughts on Sketching and Communication
 
-@draft
+@draft @todo(add scans of examples)
 
 as designer/artist it is *very* helpful to add techniques to describe, discuss and develop ideas. one of the most common one apart from just using word or language is for sure the *sketch*.
 
