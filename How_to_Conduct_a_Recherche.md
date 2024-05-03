@@ -45,7 +45,7 @@ in addition to such infrastructures ( be they physical or virtual ) certain meth
 
 the bottom line here is that organizing, archiving and presenting, once again is highly individual and creative endeavor. as designer and/or artist it is vital to explore such concepts and develop one’s *own ways*.
 
-some artist have even made a career of finding idiosyncratic forms for their research ( e.g [Mark Lombardi](https://en.wikipedia.org/wiki/Mark_Lombardi) ).
+some artist have even made a career of finding idiosyncratic forms for their research ( e.g [Mark Lombardi](https://en.wikipedia.org/wiki/Mark_Lombardi) or [Disnovation: Shanzhai Archeology](https://disnovation.org/shanzhai.php) )
 
 while other people voice concerns about the idea in general e.g  [Claire Bishop: Information Overload](https://www.artforum.com/features/claire-bishop-on-the-superabundance-of-research-based-art-252571/) on the superabundance of research-based art.
 
