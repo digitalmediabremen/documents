@@ -14,7 +14,7 @@ sketch is not ( necessarily ) *artistic* drawing or proper illustration or any o
 
 this is an example of a few elements from Dennis P Paul’s sketching vocabulary.
 
-### keep a sketchbook on you at all times
+### Keep a Sketchbook on You at all Times
 
 there are very nice sketchbook or notebooks out there for purchase. 
 
@@ -31,3 +31,6 @@ regardless of what form a sketchbook takes, the bottom line is to always keep on
 furthermore develop a dedicated style for your writing utilities.
 
 ![pens](./assets/tosac--pens.jpeg)
+
+### Develop a *Presentable* Handwriting
+
