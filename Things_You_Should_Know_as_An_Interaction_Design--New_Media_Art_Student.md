@@ -188,7 +188,7 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - [Disney Research](https://www.disneyresearch.com/)
 - [Microsoft Research](https://www.microsoft.com/en-us/research/)
 - [Sony Research](https://www.sony.com/en/SonyInfo/research/)
-- [Volkswagen Electronics Research Laboratory](https://vwiecc.com/)
+- [Volkswagen Electronics Research Laboratory](https://vwiecc.com/) ( e.g Volkswagen Group Future Center Europe )
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html)
 - [Google Research](https://research.google/)
 - [Copenhagen Institute of Interaction Design](http://ciid.dk) ( more institute than studio or research lab )
