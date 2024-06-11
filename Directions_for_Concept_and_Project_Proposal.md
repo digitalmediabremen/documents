@@ -51,6 +51,8 @@ A project description's preferred medium is *text*. Text is probably the most pr
     - performance
     - body extension / wearable / cyborg organ
     - interventio/*Aktion*
+    - video
+    - game
 - What form/format are you using for *publishing*? e.g
     - exhibition
     - performance
