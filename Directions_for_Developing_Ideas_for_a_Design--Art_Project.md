@@ -96,6 +96,8 @@ talk to people, things or rubberducks. it is not so much about the reactions but
 
 take an assumption and invert it. e.g "navigation systems are designed to get some from A to B as fast as possible." inversion: "navigation systems are designed to prevent you from getting from A to B." this inversion raises questions e.g what could such a navigation system be used for? is there a value in getting lost? maybe you can ask such a navigation system to help you get lost for exactly 3 hours, etcetera.
 
+this is sometimes also referred to as the *non-* method ( e.g "information overload" becomes "non-information overload" or "information non-overload" ). this of course also work with other antonyms ( "user-friendliness" becomes "user-unfriendliness" as in Anthony Dunne’s *Hertzian Tales* publication ).
+
 ### Thinking with Hands
 
 do, make, build, scribble, sketch, manipulate, break, glue. it can be very helpful to have materials to almost mindlessly play around with. e.g duct tape and woodenstick can help a lot to get a *spatial* understanding of an object.

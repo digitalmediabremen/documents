@@ -140,11 +140,11 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - ~~[Infosthetics](http://infosthetics.com)~~ *went dark 2014* 
 - ~~[Creators](https://creators.vice.com)~~ *last update 2017*
 
-## Studios + Persons
+## Studios
 
 ### Berlin
 
-- [TheGreenEyl](http://www.thegreeneyl.com/)
+- [TheGreenEyl](http://www.thegreeneyl.com)
 - [Studio NAND](http://www.nand.io)
 - [Feld](http://www.feld.is)
 - [onformative](http://www.onformative.com)
@@ -157,8 +157,10 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - [archimedes](http://www.archimedes-exhibitions.de)
 - [Artificial Rome](http://artificialrome.com)
 - [Tamschick media+space](http://www.tamschick.com)
-- [pch-innovations](https://pch-innovations.com/)
+- [pch-innovations](https://pch-innovations.com)
 - ~~[IxDS](http://www.ixds.de)~~ now part of [pwc](https://www.pwc.de/sustainable-innovation)
+- [kling klang klong](https://www.klingklangklong.com)
+- [Numen / For Use](https://numen.eu)
 
 ### Germany
 
@@ -172,8 +174,9 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 - [Field](http://www.field.io)
 - [United Visual Artists](http://uva.co.uk)
 - [Troika](http://troika.uk.com)
-- [RANDOM INTERNATIONAL](https://www.random-international.com/)
+- [RANDOM INTERNATIONAL](https://www.random-international.com)
 - [Variable](http://variable.io)
+- [Hirsch & Mann](https://www.hirschandmann.com)
 - [Cohen & Van Balen](https://www.cohenvanbalen.com)
 - [Superflux](https://superflux.in)
 - ~~[BERG](http://berglondon.com)~~ *discontinued* 
@@ -181,7 +184,8 @@ a list of properties of how *Dunne & Raby* understand design (B) in contrast to 
 ### World
 
 - [CW&T](https://cwandt.com)
-- [Kimchi and Chips](https://www.kimchiandchips.com/)
+- [teenage engineering](https://teenage.engineering)
+- [Kimchi and Chips](https://www.kimchiandchips.com)
 
 ## Research Labs
 
