@@ -54,3 +54,7 @@ Consider how you want to interact with your audience. Should you ask questions o
 Many tools are available for creating presentations, most of which organise content in slides with text, images, and videos. These include Microsoft PowerPoint, Apple Keynote, Google Slides, Marp, iA Presenter, Figma, and revealjs. Even macOS Finder can be used in a somewhat unconventional way. Consider using your iPhone as a remote control for Keynote. Non-presentation tools like Resolume, OBS, Processing.org, and Touchdesigner can also be creatively misused for presentations.
 
 By considering these points, you can craft and deliver presentations that are not only informative but also engaging and reflective of your artistic or design sensibilities.
+
+---
+
+This document is available as a public document at [Directions for Presentations](http://dm-hb.de/dmdfp).
