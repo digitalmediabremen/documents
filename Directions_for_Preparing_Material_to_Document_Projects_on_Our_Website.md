@@ -36,7 +36,7 @@ also find inspiration by looking at the documentation already published on the [
 
 ## Social Media
 
-- There are *Digital Media Bremen* accounts on [Twitter](https://twitter.com/DM_BREMEN) and on [Instagram](https://www.instagram.com/digitalmediabremen). Via both channels new projects on the website get announced.
+- There are *Digital Media Bremen* accounts on [Instagram](https://www.instagram.com/digitalmediabremen) and more recently on [Mastodon](https://mastodon.social/@digitalmediabremen). Via both channels new projects get announced when they are published on our website.
 - In case you have an Instagram account you can let us know about the name / handle of your account. Then you can get tagged when your project is announced.
 - If a video is part of your project documentation you can send a link to a downloadable short version <60sec of your video along with your documentation files. Otherwise your key visual will get posted as the announcement of your project.
 - All projects are posted announced using a similar scheme: `'The Transcriptions of Space' a project by Artem Stepanchuk is now featured on our website`
