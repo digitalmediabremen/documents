@@ -13,3 +13,7 @@
 - we will be *there*
 - the program does not want to *make* you anything but aims to facilitate that you *become*
 - the program exist to help you progress, process, develop, and evolve
+
+---
+
+( at least according to [Dennis P Paul](https://github.com/dennisppaul) )
