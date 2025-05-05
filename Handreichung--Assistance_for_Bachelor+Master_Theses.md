@@ -1,6 +1,6 @@
 # Handreichung / Assistance for Bachelor + Master Theses
 
-This document aims to function as an informal guideline for developing and completing a bachelor or master thesis. It is a set of suggestions rather than rules. Every student is encouraged to digress from these suggestions wherever suitable but should be equally prepared to justify such decisions later. First and foremost, a thesis is supposed to document a student’s ability to independently develop and work on a complex and relevant project.
+This document aims to function as an informal guideline for developing and completing a bachelor or master thesis. It is a set of suggestions rather than rules. Every student is encouraged to digress from these suggestions wherever suitable but should be equally prepared to justify such decisions and is well advised to discuss such deviations with the supervisors. First and foremost, a thesis is supposed to document a student’s ability to independently develop and work on a complex and relevant project.
 
 The statements in this document do not override the existing *Prüfungsordnungen*.
 
