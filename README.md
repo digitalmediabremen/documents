@@ -12,6 +12,7 @@ a collection of documents on topics related to interaction design + new media ar
 - [Directions for Project Sketches](http://dm-hb.de/dmps)
 - [Directions for Technical Documentations of Installations and Tech Riders](https://github.com/digitalmediabremen/documents/blob/master/Directions_for_Technical_Documentations_of_Installations_and_Tech_Riders.md)
 - [Directions for Visualizing Concepts](http://dm-hb.de/dmdfvc)
+- [Directions for Presentations](https://github.com/digitalmediabremen/documents/blob/master/Directions_for_Presentations.md)
 - [FAQ -- Bachelor Master Thesis](http://dm-hb.de/dmfaqbmt)
 - [Handreichung -- Assistance for Bachelor+Master Theses](https://github.com/digitalmediabremen/documents/blob/master/Handreichung--Assistance_for_Bachelor%2BMaster_Theses.md)
 - [Handreichung--Directions_and_Assistance_for_Lecturers.md](Handreichung--Directions_and_Assistance_for_Lecturers.md)
