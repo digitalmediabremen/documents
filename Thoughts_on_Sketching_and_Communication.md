@@ -34,3 +34,6 @@ furthermore develop a dedicated style for your writing utilities.
 
 ### Develop a *Presentable* Handwriting
 
+---
+
+This document is available as a public document at [Thoughts on Sketching and Communication](http://dm-hb.de/tosac).
